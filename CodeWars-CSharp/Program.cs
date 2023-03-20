@@ -1,2 +1,3 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿using CodeWars_CSharp;
+
+Console.WriteLine(Multiplier.Multiply(1));
