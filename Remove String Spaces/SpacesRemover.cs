@@ -4,16 +4,7 @@
     {
         public static string NoSpace(string input)
         {
-            string Result = "";
-            foreach (char c in input)
-            {
-                if (c == ' ')
-                {
-                    continue;
-                }
-                Result += c;
-            }
-            return Result;
+           return input.Replace(" ","");
         }
     }
 }
