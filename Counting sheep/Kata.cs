@@ -5,15 +5,7 @@ namespace Counting_sheep
     {
         public static int CountSheeps(bool[] sheeps)
         {
-            int result = 0;
-            foreach (bool b in sheeps) 
-            { 
-            if (b)
-                {
-                    result++;
-                }
-            }
-            return result;
+            return sheeps.Count(sheep => sheep);
         }
     }
 }
