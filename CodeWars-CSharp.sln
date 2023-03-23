@@ -7,9 +7,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Simple multiplication", "Co
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Determine offspring sex based on genes XX and XY chromosomes", "Determine offspring sex based on genes XX and XY chromosomes\Determine offspring sex based on genes XX and XY chromosomes.csproj", "{C85E9659-58F7-438D-B2F1-4B60976AD6FF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Find Nearest square number", "Find Nearest square number\Find Nearest square number.csproj", "{7D8213A1-CC39-4B56-85DF-4E615CB507C3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Find Nearest square number", "Find Nearest square number\Find Nearest square number.csproj", "{7D8213A1-CC39-4B56-85DF-4E615CB507C3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Remove String Spaces", "Remove String Spaces\Remove String Spaces.csproj", "{65654CF5-50AF-4176-B07A-3365922E551F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Remove String Spaces", "Remove String Spaces\Remove String Spaces.csproj", "{65654CF5-50AF-4176-B07A-3365922E551F}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "KYU8", "KYU8", "{A850A139-9651-4249-AF33-975C3B23D915}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -36,6 +38,12 @@ Global
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{0CD188ED-D5C5-4F1E-B5AF-3996366FEA74} = {A850A139-9651-4249-AF33-975C3B23D915}
+		{C85E9659-58F7-438D-B2F1-4B60976AD6FF} = {A850A139-9651-4249-AF33-975C3B23D915}
+		{7D8213A1-CC39-4B56-85DF-4E615CB507C3} = {A850A139-9651-4249-AF33-975C3B23D915}
+		{65654CF5-50AF-4176-B07A-3365922E551F} = {A850A139-9651-4249-AF33-975C3B23D915}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {F369E5DA-EE44-438C-BA83-429788C9A088}
