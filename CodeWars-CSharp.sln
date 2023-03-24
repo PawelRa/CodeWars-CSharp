@@ -23,7 +23,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exclusive Logical Operator"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Square(n) Sum", "Square(n) Sum\Square(n) Sum.csproj", "{E1BD0339-0085-4FAC-B667-4FF8BCC0C6E9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Century From Year", "Century From Year\Century From Year.csproj", "{F3B49FAF-A31F-4EAD-BB8F-B1760A65DB3C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Century From Year", "Century From Year\Century From Year.csproj", "{F3B49FAF-A31F-4EAD-BB8F-B1760A65DB3C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Is n divisible by x and y", "Is n divisible by x and y\Is n divisible by x and y.csproj", "{988CFFEB-1223-4B26-B657-0B85D93BFF16}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -71,6 +73,10 @@ Global
 		{F3B49FAF-A31F-4EAD-BB8F-B1760A65DB3C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F3B49FAF-A31F-4EAD-BB8F-B1760A65DB3C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F3B49FAF-A31F-4EAD-BB8F-B1760A65DB3C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{988CFFEB-1223-4B26-B657-0B85D93BFF16}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{988CFFEB-1223-4B26-B657-0B85D93BFF16}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{988CFFEB-1223-4B26-B657-0B85D93BFF16}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{988CFFEB-1223-4B26-B657-0B85D93BFF16}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -86,6 +92,7 @@ Global
 		{80B0E5E4-49C5-4B25-8072-286C1FC5E1D0} = {A850A139-9651-4249-AF33-975C3B23D915}
 		{E1BD0339-0085-4FAC-B667-4FF8BCC0C6E9} = {A850A139-9651-4249-AF33-975C3B23D915}
 		{F3B49FAF-A31F-4EAD-BB8F-B1760A65DB3C} = {A850A139-9651-4249-AF33-975C3B23D915}
+		{988CFFEB-1223-4B26-B657-0B85D93BFF16} = {A850A139-9651-4249-AF33-975C3B23D915}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {F369E5DA-EE44-438C-BA83-429788C9A088}
