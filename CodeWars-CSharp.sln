@@ -29,9 +29,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Is n divisible by x and y",
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Reversed Strings", "Reversed Strings\Reversed Strings.csproj", "{03552D88-A458-4EE2-A907-E1D72CB87EE9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Convert a Boolean to a String", "Convert a Boolean to a String\Convert a Boolean to a String.csproj", "{C7B8B5FE-134B-49E9-A3C9-6E6FACD39473}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Convert a Boolean to a String", "Convert a Boolean to a String\Convert a Boolean to a String.csproj", "{C7B8B5FE-134B-49E9-A3C9-6E6FACD39473}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Reversed Words", "Reversed Words\Reversed Words.csproj", "{D21DD7BE-2EFF-46D8-A48B-5616712A8C79}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Reversed Words", "Reversed Words\Reversed Words.csproj", "{D21DD7BE-2EFF-46D8-A48B-5616712A8C79}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Add Length", "Add Length\Add Length.csproj", "{55E114DC-769B-4BFD-8C2D-96408394957C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -95,6 +97,10 @@ Global
 		{D21DD7BE-2EFF-46D8-A48B-5616712A8C79}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D21DD7BE-2EFF-46D8-A48B-5616712A8C79}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D21DD7BE-2EFF-46D8-A48B-5616712A8C79}.Release|Any CPU.Build.0 = Release|Any CPU
+		{55E114DC-769B-4BFD-8C2D-96408394957C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55E114DC-769B-4BFD-8C2D-96408394957C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55E114DC-769B-4BFD-8C2D-96408394957C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55E114DC-769B-4BFD-8C2D-96408394957C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -114,6 +120,7 @@ Global
 		{03552D88-A458-4EE2-A907-E1D72CB87EE9} = {A850A139-9651-4249-AF33-975C3B23D915}
 		{C7B8B5FE-134B-49E9-A3C9-6E6FACD39473} = {A850A139-9651-4249-AF33-975C3B23D915}
 		{D21DD7BE-2EFF-46D8-A48B-5616712A8C79} = {A850A139-9651-4249-AF33-975C3B23D915}
+		{55E114DC-769B-4BFD-8C2D-96408394957C} = {A850A139-9651-4249-AF33-975C3B23D915}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {F369E5DA-EE44-438C-BA83-429788C9A088}
