@@ -11,7 +11,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Find Nearest square number"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Remove String Spaces", "Remove String Spaces\Remove String Spaces.csproj", "{65654CF5-50AF-4176-B07A-3365922E551F}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "KYU8", "KYU8", "{A850A139-9651-4249-AF33-975C3B23D915}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "8KYU", "8KYU", "{A850A139-9651-4249-AF33-975C3B23D915}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "String repeat", "String repeat\String repeat.csproj", "{E2725018-BE1C-4CB6-9142-122B06A98C7D}"
 EndProject
@@ -34,6 +34,8 @@ EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Reversed Words", "Reversed Words\Reversed Words.csproj", "{D21DD7BE-2EFF-46D8-A48B-5616712A8C79}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Add Length", "Add Length\Add Length.csproj", "{55E114DC-769B-4BFD-8C2D-96408394957C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "7KYU", "7KYU", "{7DCE8751-8E7A-4726-9A42-303C80B78549}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
