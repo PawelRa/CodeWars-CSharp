@@ -41,7 +41,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Sort Numbers", "Sort Number
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Cat Dog years", "Cat Dog years\Cat Dog years.csproj", "{E3C32589-595C-477C-922C-AC1A903668F6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Third Angle of a Triangle", "Third Angle of a Triangle\Third Angle of a Triangle.csproj", "{AE8D02C9-5C31-4A50-A1C3-EFAB77462913}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Third Angle of a Triangle", "Third Angle of a Triangle\Third Angle of a Triangle.csproj", "{AE8D02C9-5C31-4A50-A1C3-EFAB77462913}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Keep Hydrated!", "Keep Hydrated!\Keep Hydrated!.csproj", "{3F0C52B2-FC3A-48C0-8AC0-70F57026A37A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -121,6 +123,10 @@ Global
 		{AE8D02C9-5C31-4A50-A1C3-EFAB77462913}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AE8D02C9-5C31-4A50-A1C3-EFAB77462913}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AE8D02C9-5C31-4A50-A1C3-EFAB77462913}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3F0C52B2-FC3A-48C0-8AC0-70F57026A37A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F0C52B2-FC3A-48C0-8AC0-70F57026A37A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F0C52B2-FC3A-48C0-8AC0-70F57026A37A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F0C52B2-FC3A-48C0-8AC0-70F57026A37A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -144,6 +150,7 @@ Global
 		{40C6A7E0-D508-411D-9B2F-DBED0B8AEB34} = {7DCE8751-8E7A-4726-9A42-303C80B78549}
 		{E3C32589-595C-477C-922C-AC1A903668F6} = {A850A139-9651-4249-AF33-975C3B23D915}
 		{AE8D02C9-5C31-4A50-A1C3-EFAB77462913} = {A850A139-9651-4249-AF33-975C3B23D915}
+		{3F0C52B2-FC3A-48C0-8AC0-70F57026A37A} = {A850A139-9651-4249-AF33-975C3B23D915}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {F369E5DA-EE44-438C-BA83-429788C9A088}
