@@ -51,7 +51,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Convert a String to a Numbe
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Powers of 2", "Powers of 2\Powers of 2.csproj", "{84CF7003-39E3-40CD-A448-313176F37DB5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unfinished Loop", "Unfinished Loop\Unfinished Loop.csproj", "{CF26568C-08B4-4185-8A37-4C519458AD8C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Unfinished Loop", "Unfinished Loop\Unfinished Loop.csproj", "{CF26568C-08B4-4185-8A37-4C519458AD8C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Thinkful  Logic Drills Traffic light", "Thinkful  Logic Drills Traffic light\Thinkful  Logic Drills Traffic light.csproj", "{14DDE62D-FBA3-4A09-86D1-B339B433EA8A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -151,6 +153,10 @@ Global
 		{CF26568C-08B4-4185-8A37-4C519458AD8C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CF26568C-08B4-4185-8A37-4C519458AD8C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CF26568C-08B4-4185-8A37-4C519458AD8C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{14DDE62D-FBA3-4A09-86D1-B339B433EA8A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{14DDE62D-FBA3-4A09-86D1-B339B433EA8A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{14DDE62D-FBA3-4A09-86D1-B339B433EA8A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{14DDE62D-FBA3-4A09-86D1-B339B433EA8A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -179,6 +185,7 @@ Global
 		{677F9A46-9B7E-48D5-B2E6-B37A1C33E4C7} = {A850A139-9651-4249-AF33-975C3B23D915}
 		{84CF7003-39E3-40CD-A448-313176F37DB5} = {A850A139-9651-4249-AF33-975C3B23D915}
 		{CF26568C-08B4-4185-8A37-4C519458AD8C} = {A850A139-9651-4249-AF33-975C3B23D915}
+		{14DDE62D-FBA3-4A09-86D1-B339B433EA8A} = {A850A139-9651-4249-AF33-975C3B23D915}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {F369E5DA-EE44-438C-BA83-429788C9A088}
