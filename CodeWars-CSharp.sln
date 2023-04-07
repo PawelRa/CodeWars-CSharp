@@ -65,6 +65,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Contamination #1 -String-",
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Beginner Series #2 Clock", "Beginner Series #2 Clock\Beginner Series #2 Clock.csproj", "{FCD15FD7-43C4-491D-A2A2-231F133CE746}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "The highest profit wins", "The highest profit wins\The highest profit wins.csproj", "{9FEF6DA7-EEAF-4A8F-A3C4-8CCF1B72FE96}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -187,6 +189,10 @@ Global
 		{FCD15FD7-43C4-491D-A2A2-231F133CE746}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FCD15FD7-43C4-491D-A2A2-231F133CE746}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FCD15FD7-43C4-491D-A2A2-231F133CE746}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9FEF6DA7-EEAF-4A8F-A3C4-8CCF1B72FE96}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9FEF6DA7-EEAF-4A8F-A3C4-8CCF1B72FE96}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9FEF6DA7-EEAF-4A8F-A3C4-8CCF1B72FE96}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9FEF6DA7-EEAF-4A8F-A3C4-8CCF1B72FE96}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -221,6 +227,7 @@ Global
 		{FEEF2874-E7EB-430C-ADB7-20B945B97333} = {A850A139-9651-4249-AF33-975C3B23D915}
 		{DEE9E3D9-AC4E-4CBE-ACF4-F9CBAFB1D0CC} = {A850A139-9651-4249-AF33-975C3B23D915}
 		{FCD15FD7-43C4-491D-A2A2-231F133CE746} = {A850A139-9651-4249-AF33-975C3B23D915}
+		{9FEF6DA7-EEAF-4A8F-A3C4-8CCF1B72FE96} = {7DCE8751-8E7A-4726-9A42-303C80B78549}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {F369E5DA-EE44-438C-BA83-429788C9A088}
