@@ -67,6 +67,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Beginner Series #2 Clock", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "The highest profit wins", "The highest profit wins\The highest profit wins.csproj", "{9FEF6DA7-EEAF-4A8F-A3C4-8CCF1B72FE96}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Invert values", "Invert values\Invert values.csproj", "{882304EF-4639-4ADC-A1FA-B4709672C9D3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -193,6 +195,10 @@ Global
 		{9FEF6DA7-EEAF-4A8F-A3C4-8CCF1B72FE96}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9FEF6DA7-EEAF-4A8F-A3C4-8CCF1B72FE96}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9FEF6DA7-EEAF-4A8F-A3C4-8CCF1B72FE96}.Release|Any CPU.Build.0 = Release|Any CPU
+		{882304EF-4639-4ADC-A1FA-B4709672C9D3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{882304EF-4639-4ADC-A1FA-B4709672C9D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{882304EF-4639-4ADC-A1FA-B4709672C9D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{882304EF-4639-4ADC-A1FA-B4709672C9D3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -228,6 +234,7 @@ Global
 		{DEE9E3D9-AC4E-4CBE-ACF4-F9CBAFB1D0CC} = {A850A139-9651-4249-AF33-975C3B23D915}
 		{FCD15FD7-43C4-491D-A2A2-231F133CE746} = {A850A139-9651-4249-AF33-975C3B23D915}
 		{9FEF6DA7-EEAF-4A8F-A3C4-8CCF1B72FE96} = {7DCE8751-8E7A-4726-9A42-303C80B78549}
+		{882304EF-4639-4ADC-A1FA-B4709672C9D3} = {A850A139-9651-4249-AF33-975C3B23D915}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {F369E5DA-EE44-438C-BA83-429788C9A088}
