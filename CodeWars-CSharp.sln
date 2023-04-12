@@ -69,11 +69,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "The highest profit wins", "
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Invert values", "Invert values\Invert values.csproj", "{882304EF-4639-4ADC-A1FA-B4709672C9D3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Name Shuffler", "Name Shuffler\Name Shuffler.csproj", "{4288CBF8-022A-4B85-8F55-D1E5401F1C58}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Name Shuffler", "Name Shuffler\Name Shuffler.csproj", "{4288CBF8-022A-4B85-8F55-D1E5401F1C58}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Make a function that does arithmetic", "Make a function that does arithmetic\Make a function that does arithmetic.csproj", "{27B9ED61-7EFE-4CC4-85BC-0AFFC5853F2F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Make a function that does arithmetic", "Make a function that does arithmetic\Make a function that does arithmetic.csproj", "{27B9ED61-7EFE-4CC4-85BC-0AFFC5853F2F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Grasshopper - Terminal game combat function", "Grasshopper - Terminal game combat function\Grasshopper - Terminal game combat function.csproj", "{4A64E183-3E47-4C92-B789-AFDBE002DFA3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Grasshopper - Terminal game combat function", "Grasshopper - Terminal game combat function\Grasshopper - Terminal game combat function.csproj", "{4A64E183-3E47-4C92-B789-AFDBE002DFA3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "The Feast of Many Beasts", "The Feast of Many Beasts\The Feast of Many Beasts.csproj", "{6A95778F-9E74-4A94-9BAA-E4DE1DE75089}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -217,6 +219,10 @@ Global
 		{4A64E183-3E47-4C92-B789-AFDBE002DFA3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4A64E183-3E47-4C92-B789-AFDBE002DFA3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4A64E183-3E47-4C92-B789-AFDBE002DFA3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6A95778F-9E74-4A94-9BAA-E4DE1DE75089}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A95778F-9E74-4A94-9BAA-E4DE1DE75089}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A95778F-9E74-4A94-9BAA-E4DE1DE75089}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A95778F-9E74-4A94-9BAA-E4DE1DE75089}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -256,6 +262,7 @@ Global
 		{4288CBF8-022A-4B85-8F55-D1E5401F1C58} = {A850A139-9651-4249-AF33-975C3B23D915}
 		{27B9ED61-7EFE-4CC4-85BC-0AFFC5853F2F} = {7DCE8751-8E7A-4726-9A42-303C80B78549}
 		{4A64E183-3E47-4C92-B789-AFDBE002DFA3} = {A850A139-9651-4249-AF33-975C3B23D915}
+		{6A95778F-9E74-4A94-9BAA-E4DE1DE75089} = {A850A139-9651-4249-AF33-975C3B23D915}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {F369E5DA-EE44-438C-BA83-429788C9A088}
