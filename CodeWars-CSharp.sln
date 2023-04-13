@@ -77,6 +77,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Grasshopper - Terminal game
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "The Feast of Many Beasts", "The Feast of Many Beasts\The Feast of Many Beasts.csproj", "{6A95778F-9E74-4A94-9BAA-E4DE1DE75089}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Changing letters", "Changing letters\Changing letters.csproj", "{E1F144A7-E1DF-4F93-A175-A791F5FC2835}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -223,6 +225,10 @@ Global
 		{6A95778F-9E74-4A94-9BAA-E4DE1DE75089}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6A95778F-9E74-4A94-9BAA-E4DE1DE75089}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6A95778F-9E74-4A94-9BAA-E4DE1DE75089}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E1F144A7-E1DF-4F93-A175-A791F5FC2835}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E1F144A7-E1DF-4F93-A175-A791F5FC2835}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E1F144A7-E1DF-4F93-A175-A791F5FC2835}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E1F144A7-E1DF-4F93-A175-A791F5FC2835}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -263,6 +269,7 @@ Global
 		{27B9ED61-7EFE-4CC4-85BC-0AFFC5853F2F} = {7DCE8751-8E7A-4726-9A42-303C80B78549}
 		{4A64E183-3E47-4C92-B789-AFDBE002DFA3} = {A850A139-9651-4249-AF33-975C3B23D915}
 		{6A95778F-9E74-4A94-9BAA-E4DE1DE75089} = {A850A139-9651-4249-AF33-975C3B23D915}
+		{E1F144A7-E1DF-4F93-A175-A791F5FC2835} = {7DCE8751-8E7A-4726-9A42-303C80B78549}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {F369E5DA-EE44-438C-BA83-429788C9A088}
