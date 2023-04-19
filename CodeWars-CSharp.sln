@@ -81,11 +81,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Changing letters", "Changin
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "count sheep", "count sheep\count sheep.csproj", "{AEBF4FA3-E2E8-41BF-906E-2E29925D6560}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Find the capitals", "Find the capitals\Find the capitals.csproj", "{6EB8F671-E4A0-454F-8327-BC9948A2D096}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Find the capitals", "Find the capitals\Find the capitals.csproj", "{6EB8F671-E4A0-454F-8327-BC9948A2D096}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Remove First and Last Character", "Remove First and Last Character\Remove First and Last Character.csproj", "{1960E6AE-8E05-403B-BF49-EC4774FF60D3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Remove First and Last Character", "Remove First and Last Character\Remove First and Last Character.csproj", "{1960E6AE-8E05-403B-BF49-EC4774FF60D3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lario and Muigi Pipe Problem", "Lario and Muigi Pipe Problem\Lario and Muigi Pipe Problem.csproj", "{D019D26F-D9A5-4059-8457-EC0DB8B53F12}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lario and Muigi Pipe Problem", "Lario and Muigi Pipe Problem\Lario and Muigi Pipe Problem.csproj", "{D019D26F-D9A5-4059-8457-EC0DB8B53F12}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Miles per gallon to kilometers per liter", "Miles per gallon to kilometers per liter\Miles per gallon to kilometers per liter.csproj", "{8B68E740-DD99-45D4-A990-549F07B1F978}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -253,6 +255,10 @@ Global
 		{D019D26F-D9A5-4059-8457-EC0DB8B53F12}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D019D26F-D9A5-4059-8457-EC0DB8B53F12}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D019D26F-D9A5-4059-8457-EC0DB8B53F12}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8B68E740-DD99-45D4-A990-549F07B1F978}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B68E740-DD99-45D4-A990-549F07B1F978}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B68E740-DD99-45D4-A990-549F07B1F978}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B68E740-DD99-45D4-A990-549F07B1F978}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -298,6 +304,7 @@ Global
 		{6EB8F671-E4A0-454F-8327-BC9948A2D096} = {7DCE8751-8E7A-4726-9A42-303C80B78549}
 		{1960E6AE-8E05-403B-BF49-EC4774FF60D3} = {A850A139-9651-4249-AF33-975C3B23D915}
 		{D019D26F-D9A5-4059-8457-EC0DB8B53F12} = {A850A139-9651-4249-AF33-975C3B23D915}
+		{8B68E740-DD99-45D4-A990-549F07B1F978} = {A850A139-9651-4249-AF33-975C3B23D915}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {F369E5DA-EE44-438C-BA83-429788C9A088}
