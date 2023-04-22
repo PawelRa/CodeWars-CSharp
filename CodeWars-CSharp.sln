@@ -93,6 +93,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Did she say hallo", "Did sh
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Volume of a Cuboid", "Volume of a Cuboid\Volume of a Cuboid.csproj", "{0BB3A1E9-CC36-494F-8521-173B089D3B73}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Reduce but Grow", "Reduce but Grow\Reduce but Grow.csproj", "{88CDB06F-76FE-41E5-9164-CE1DA97EED4B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -271,6 +273,10 @@ Global
 		{0BB3A1E9-CC36-494F-8521-173B089D3B73}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0BB3A1E9-CC36-494F-8521-173B089D3B73}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0BB3A1E9-CC36-494F-8521-173B089D3B73}.Release|Any CPU.Build.0 = Release|Any CPU
+		{88CDB06F-76FE-41E5-9164-CE1DA97EED4B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{88CDB06F-76FE-41E5-9164-CE1DA97EED4B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{88CDB06F-76FE-41E5-9164-CE1DA97EED4B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{88CDB06F-76FE-41E5-9164-CE1DA97EED4B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -319,6 +325,7 @@ Global
 		{8B68E740-DD99-45D4-A990-549F07B1F978} = {A850A139-9651-4249-AF33-975C3B23D915}
 		{E9A2C9F5-1856-4798-96F4-8E9BDCE4C7B6} = {A850A139-9651-4249-AF33-975C3B23D915}
 		{0BB3A1E9-CC36-494F-8521-173B089D3B73} = {A850A139-9651-4249-AF33-975C3B23D915}
+		{88CDB06F-76FE-41E5-9164-CE1DA97EED4B} = {A850A139-9651-4249-AF33-975C3B23D915}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {F369E5DA-EE44-438C-BA83-429788C9A088}
