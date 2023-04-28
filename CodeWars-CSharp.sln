@@ -103,6 +103,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Will there be enough space"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Check the exam", "Check the exam\Check the exam.csproj", "{2C7E260B-74F4-47E7-B352-3D645560FE85}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Easy wallpaper", "Easy wallpaper\Easy wallpaper.csproj", "{5F4746F9-65AC-4A0D-90D7-AAB1CCBA9CFE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -301,6 +303,10 @@ Global
 		{2C7E260B-74F4-47E7-B352-3D645560FE85}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2C7E260B-74F4-47E7-B352-3D645560FE85}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2C7E260B-74F4-47E7-B352-3D645560FE85}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5F4746F9-65AC-4A0D-90D7-AAB1CCBA9CFE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F4746F9-65AC-4A0D-90D7-AAB1CCBA9CFE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F4746F9-65AC-4A0D-90D7-AAB1CCBA9CFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F4746F9-65AC-4A0D-90D7-AAB1CCBA9CFE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -354,6 +360,7 @@ Global
 		{43D16544-8D52-437C-AF9D-FEF99D96D2C6} = {7DCE8751-8E7A-4726-9A42-303C80B78549}
 		{626C04A6-D0C0-4311-9F6F-109728F856BE} = {A850A139-9651-4249-AF33-975C3B23D915}
 		{2C7E260B-74F4-47E7-B352-3D645560FE85} = {7DCE8751-8E7A-4726-9A42-303C80B78549}
+		{5F4746F9-65AC-4A0D-90D7-AAB1CCBA9CFE} = {7DCE8751-8E7A-4726-9A42-303C80B78549}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {F369E5DA-EE44-438C-BA83-429788C9A088}
