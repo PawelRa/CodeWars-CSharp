@@ -111,6 +111,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Return Negative", "Return N
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Isograms", "Isograms\Isograms.csproj", "{173144EC-07BC-4E58-9D18-8619DA59CAAE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Twice as old", "Twice as old\Twice as old.csproj", "{38350D5F-4B70-4814-8550-44AFD3CC3EB8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -325,6 +327,10 @@ Global
 		{173144EC-07BC-4E58-9D18-8619DA59CAAE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{173144EC-07BC-4E58-9D18-8619DA59CAAE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{173144EC-07BC-4E58-9D18-8619DA59CAAE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{38350D5F-4B70-4814-8550-44AFD3CC3EB8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{38350D5F-4B70-4814-8550-44AFD3CC3EB8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{38350D5F-4B70-4814-8550-44AFD3CC3EB8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{38350D5F-4B70-4814-8550-44AFD3CC3EB8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -382,6 +388,7 @@ Global
 		{429333B1-2FE3-4AAF-A3B4-4FC3C8606A47} = {A850A139-9651-4249-AF33-975C3B23D915}
 		{21AA5B00-CF99-4A8C-9B4B-E9F24629DF09} = {A850A139-9651-4249-AF33-975C3B23D915}
 		{173144EC-07BC-4E58-9D18-8619DA59CAAE} = {7DCE8751-8E7A-4726-9A42-303C80B78549}
+		{38350D5F-4B70-4814-8550-44AFD3CC3EB8} = {A850A139-9651-4249-AF33-975C3B23D915}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {F369E5DA-EE44-438C-BA83-429788C9A088}
