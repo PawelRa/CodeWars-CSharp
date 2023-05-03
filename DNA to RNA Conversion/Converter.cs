@@ -10,20 +10,7 @@ namespace DNAtoRNAConversion
     {
         public static string dnaToRna(string dna)
         {
-            string result = "";
-
-            foreach (char letter  in dna)
-            {
-                if (letter == 'T')
-                {
-                    result += "U";
-                }  else
-                {
-                    result += letter;
-                }
-            }
-
-            return result;
+            return dna.Replace('T', 'U');
         }
     }
 }
