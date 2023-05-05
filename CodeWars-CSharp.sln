@@ -107,6 +107,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Easy wallpaper", "Easy wall
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Find Multiples of a Number", "Find Multiples of a Number\Find Multiples of a Number.csproj", "{429333B1-2FE3-4AAF-A3B4-4FC3C8606A47}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Return Negative", "Return Negative\Return Negative.csproj", "{21AA5B00-CF99-4A8C-9B4B-E9F24629DF09}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -313,6 +315,10 @@ Global
 		{429333B1-2FE3-4AAF-A3B4-4FC3C8606A47}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{429333B1-2FE3-4AAF-A3B4-4FC3C8606A47}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{429333B1-2FE3-4AAF-A3B4-4FC3C8606A47}.Release|Any CPU.Build.0 = Release|Any CPU
+		{21AA5B00-CF99-4A8C-9B4B-E9F24629DF09}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{21AA5B00-CF99-4A8C-9B4B-E9F24629DF09}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{21AA5B00-CF99-4A8C-9B4B-E9F24629DF09}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{21AA5B00-CF99-4A8C-9B4B-E9F24629DF09}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -368,6 +374,7 @@ Global
 		{2C7E260B-74F4-47E7-B352-3D645560FE85} = {7DCE8751-8E7A-4726-9A42-303C80B78549}
 		{5F4746F9-65AC-4A0D-90D7-AAB1CCBA9CFE} = {7DCE8751-8E7A-4726-9A42-303C80B78549}
 		{429333B1-2FE3-4AAF-A3B4-4FC3C8606A47} = {A850A139-9651-4249-AF33-975C3B23D915}
+		{21AA5B00-CF99-4A8C-9B4B-E9F24629DF09} = {A850A139-9651-4249-AF33-975C3B23D915}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {F369E5DA-EE44-438C-BA83-429788C9A088}

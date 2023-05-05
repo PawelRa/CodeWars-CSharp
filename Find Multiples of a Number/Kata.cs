@@ -15,7 +15,6 @@ namespace Find_Multiples_of_a_Number
            for (int i = 1; integer*i<=limit; i++)
             {
                 result.Add(integer*i);
-                Console.WriteLine(integer * i);
             }
 
             return result;
