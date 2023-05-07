@@ -10,7 +10,7 @@ namespace Take_the_Derivative
     {
         public static string Derive(double coefficient, double exponent)
         {
-            return $"{coefficient * exponent}x^{exponent--}";
+            return $"{coefficient * exponent}x^{exponent - 1}";
         }
     }
 }
