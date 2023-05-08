@@ -115,9 +115,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Twice as old", "Twice as ol
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DNA to RNA Conversion", "DNA to RNA Conversion\DNA to RNA Conversion.csproj", "{6D20DBE5-75E6-4F6F-96DB-495C41794478}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Take the Derivative", "Take the Derivative\Take the Derivative.csproj", "{0403E338-A9B2-41EB-824C-783AB1600479}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Take the Derivative", "Take the Derivative\Take the Derivative.csproj", "{0403E338-A9B2-41EB-824C-783AB1600479}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "The Coupon Code", "The Coupon Code\The Coupon Code.csproj", "{B4ECC012-89F4-410E-A8C7-10B0045713D8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "The Coupon Code", "The Coupon Code\The Coupon Code.csproj", "{B4ECC012-89F4-410E-A8C7-10B0045713D8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Total amount of points", "Total amount of points\Total amount of points.csproj", "{DE5B3EE6-46A6-470D-B24B-308AE8BEA21A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -349,6 +351,10 @@ Global
 		{B4ECC012-89F4-410E-A8C7-10B0045713D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B4ECC012-89F4-410E-A8C7-10B0045713D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B4ECC012-89F4-410E-A8C7-10B0045713D8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DE5B3EE6-46A6-470D-B24B-308AE8BEA21A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE5B3EE6-46A6-470D-B24B-308AE8BEA21A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE5B3EE6-46A6-470D-B24B-308AE8BEA21A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE5B3EE6-46A6-470D-B24B-308AE8BEA21A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -410,6 +416,7 @@ Global
 		{6D20DBE5-75E6-4F6F-96DB-495C41794478} = {A850A139-9651-4249-AF33-975C3B23D915}
 		{0403E338-A9B2-41EB-824C-783AB1600479} = {A850A139-9651-4249-AF33-975C3B23D915}
 		{B4ECC012-89F4-410E-A8C7-10B0045713D8} = {7DCE8751-8E7A-4726-9A42-303C80B78549}
+		{DE5B3EE6-46A6-470D-B24B-308AE8BEA21A} = {A850A139-9651-4249-AF33-975C3B23D915}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {F369E5DA-EE44-438C-BA83-429788C9A088}
