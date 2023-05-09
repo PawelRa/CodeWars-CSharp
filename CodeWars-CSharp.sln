@@ -121,6 +121,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "The Coupon Code", "The Coup
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Total amount of points", "Total amount of points\Total amount of points.csproj", "{DE5B3EE6-46A6-470D-B24B-308AE8BEA21A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sum of two lowest positive integers", "Sum of two lowest positive integers\Sum of two lowest positive integers.csproj", "{8E7037E4-1E93-4C32-B8B3-5F4D504B0C7D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -355,6 +357,10 @@ Global
 		{DE5B3EE6-46A6-470D-B24B-308AE8BEA21A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DE5B3EE6-46A6-470D-B24B-308AE8BEA21A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DE5B3EE6-46A6-470D-B24B-308AE8BEA21A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8E7037E4-1E93-4C32-B8B3-5F4D504B0C7D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E7037E4-1E93-4C32-B8B3-5F4D504B0C7D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E7037E4-1E93-4C32-B8B3-5F4D504B0C7D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E7037E4-1E93-4C32-B8B3-5F4D504B0C7D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -417,6 +423,7 @@ Global
 		{0403E338-A9B2-41EB-824C-783AB1600479} = {A850A139-9651-4249-AF33-975C3B23D915}
 		{B4ECC012-89F4-410E-A8C7-10B0045713D8} = {7DCE8751-8E7A-4726-9A42-303C80B78549}
 		{DE5B3EE6-46A6-470D-B24B-308AE8BEA21A} = {A850A139-9651-4249-AF33-975C3B23D915}
+		{8E7037E4-1E93-4C32-B8B3-5F4D504B0C7D} = {7DCE8751-8E7A-4726-9A42-303C80B78549}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {F369E5DA-EE44-438C-BA83-429788C9A088}
