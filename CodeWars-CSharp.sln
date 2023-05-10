@@ -123,6 +123,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Total amount of points", "T
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sum of two lowest positive integers", "Sum of two lowest positive integers\Sum of two lowest positive integers.csproj", "{8E7037E4-1E93-4C32-B8B3-5F4D504B0C7D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bin to Decimal", "Bin to Decimal\Bin to Decimal.csproj", "{A24E9AB4-CFAF-44AE-B145-FA7E6948971B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -361,6 +363,10 @@ Global
 		{8E7037E4-1E93-4C32-B8B3-5F4D504B0C7D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8E7037E4-1E93-4C32-B8B3-5F4D504B0C7D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8E7037E4-1E93-4C32-B8B3-5F4D504B0C7D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A24E9AB4-CFAF-44AE-B145-FA7E6948971B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A24E9AB4-CFAF-44AE-B145-FA7E6948971B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A24E9AB4-CFAF-44AE-B145-FA7E6948971B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A24E9AB4-CFAF-44AE-B145-FA7E6948971B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -424,6 +430,7 @@ Global
 		{B4ECC012-89F4-410E-A8C7-10B0045713D8} = {7DCE8751-8E7A-4726-9A42-303C80B78549}
 		{DE5B3EE6-46A6-470D-B24B-308AE8BEA21A} = {A850A139-9651-4249-AF33-975C3B23D915}
 		{8E7037E4-1E93-4C32-B8B3-5F4D504B0C7D} = {7DCE8751-8E7A-4726-9A42-303C80B78549}
+		{A24E9AB4-CFAF-44AE-B145-FA7E6948971B} = {A850A139-9651-4249-AF33-975C3B23D915}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {F369E5DA-EE44-438C-BA83-429788C9A088}
