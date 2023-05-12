@@ -127,6 +127,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Bin to Decimal", "Bin to De
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Find the position", "Find the position\Find the position.csproj", "{760E953F-822D-4608-8D82-2133F15FC424}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Disemvowel Trolls", "Disemvowel Trolls\Disemvowel Trolls.csproj", "{9CF764A4-BE98-4CB2-BEA0-B7358C7EA6B8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -373,6 +375,10 @@ Global
 		{760E953F-822D-4608-8D82-2133F15FC424}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{760E953F-822D-4608-8D82-2133F15FC424}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{760E953F-822D-4608-8D82-2133F15FC424}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9CF764A4-BE98-4CB2-BEA0-B7358C7EA6B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9CF764A4-BE98-4CB2-BEA0-B7358C7EA6B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9CF764A4-BE98-4CB2-BEA0-B7358C7EA6B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9CF764A4-BE98-4CB2-BEA0-B7358C7EA6B8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -438,6 +444,7 @@ Global
 		{8E7037E4-1E93-4C32-B8B3-5F4D504B0C7D} = {7DCE8751-8E7A-4726-9A42-303C80B78549}
 		{A24E9AB4-CFAF-44AE-B145-FA7E6948971B} = {A850A139-9651-4249-AF33-975C3B23D915}
 		{760E953F-822D-4608-8D82-2133F15FC424} = {A850A139-9651-4249-AF33-975C3B23D915}
+		{9CF764A4-BE98-4CB2-BEA0-B7358C7EA6B8} = {7DCE8751-8E7A-4726-9A42-303C80B78549}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {F369E5DA-EE44-438C-BA83-429788C9A088}
