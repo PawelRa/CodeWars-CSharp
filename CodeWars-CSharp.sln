@@ -125,11 +125,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Sum of two lowest positive 
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Bin to Decimal", "Bin to Decimal\Bin to Decimal.csproj", "{A24E9AB4-CFAF-44AE-B145-FA7E6948971B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Find the position", "Find the position\Find the position.csproj", "{760E953F-822D-4608-8D82-2133F15FC424}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Find the position", "Find the position\Find the position.csproj", "{760E953F-822D-4608-8D82-2133F15FC424}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Disemvowel Trolls", "Disemvowel Trolls\Disemvowel Trolls.csproj", "{9CF764A4-BE98-4CB2-BEA0-B7358C7EA6B8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Disemvowel Trolls", "Disemvowel Trolls\Disemvowel Trolls.csproj", "{9CF764A4-BE98-4CB2-BEA0-B7358C7EA6B8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Find the first non-consecutive number", "Find the first non-consecutive number\Find the first non-consecutive number.csproj", "{16066908-4EBE-4D6A-B267-96CB8F1C2F68}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Find the first non-consecutive number", "Find the first non-consecutive number\Find the first non-consecutive number.csproj", "{16066908-4EBE-4D6A-B267-96CB8F1C2F68}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calculate average", "Calculate average\Calculate average.csproj", "{B55851E7-83E2-4136-9E93-A5D07AD60E9D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -385,6 +387,10 @@ Global
 		{16066908-4EBE-4D6A-B267-96CB8F1C2F68}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{16066908-4EBE-4D6A-B267-96CB8F1C2F68}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{16066908-4EBE-4D6A-B267-96CB8F1C2F68}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B55851E7-83E2-4136-9E93-A5D07AD60E9D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B55851E7-83E2-4136-9E93-A5D07AD60E9D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B55851E7-83E2-4136-9E93-A5D07AD60E9D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B55851E7-83E2-4136-9E93-A5D07AD60E9D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -452,6 +458,7 @@ Global
 		{760E953F-822D-4608-8D82-2133F15FC424} = {A850A139-9651-4249-AF33-975C3B23D915}
 		{9CF764A4-BE98-4CB2-BEA0-B7358C7EA6B8} = {7DCE8751-8E7A-4726-9A42-303C80B78549}
 		{16066908-4EBE-4D6A-B267-96CB8F1C2F68} = {A850A139-9651-4249-AF33-975C3B23D915}
+		{B55851E7-83E2-4136-9E93-A5D07AD60E9D} = {A850A139-9651-4249-AF33-975C3B23D915}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {F369E5DA-EE44-438C-BA83-429788C9A088}
