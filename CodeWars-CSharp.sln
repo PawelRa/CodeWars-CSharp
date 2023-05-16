@@ -135,6 +135,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calculate average", "Calcul
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "What is between", "What is between\What is between.csproj", "{11CAD3EA-F385-4838-97F1-D5FCA94474E7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Remove duplicates from list", "Remove duplicates from list\Remove duplicates from list.csproj", "{C8DB233A-8185-4DF2-821A-168C9A91671A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -397,6 +399,10 @@ Global
 		{11CAD3EA-F385-4838-97F1-D5FCA94474E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{11CAD3EA-F385-4838-97F1-D5FCA94474E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{11CAD3EA-F385-4838-97F1-D5FCA94474E7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C8DB233A-8185-4DF2-821A-168C9A91671A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C8DB233A-8185-4DF2-821A-168C9A91671A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C8DB233A-8185-4DF2-821A-168C9A91671A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C8DB233A-8185-4DF2-821A-168C9A91671A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -466,6 +472,7 @@ Global
 		{16066908-4EBE-4D6A-B267-96CB8F1C2F68} = {A850A139-9651-4249-AF33-975C3B23D915}
 		{B55851E7-83E2-4136-9E93-A5D07AD60E9D} = {A850A139-9651-4249-AF33-975C3B23D915}
 		{11CAD3EA-F385-4838-97F1-D5FCA94474E7} = {A850A139-9651-4249-AF33-975C3B23D915}
+		{C8DB233A-8185-4DF2-821A-168C9A91671A} = {A850A139-9651-4249-AF33-975C3B23D915}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {F369E5DA-EE44-438C-BA83-429788C9A088}
