@@ -1,0 +1,1 @@
+﻿Console.WriteLine(Welcome_to_the_City.Kata.SayHello(new string[] { "Franklin", "Delano", "Roosevelt" }, "Phoenix", "Arizona"));
