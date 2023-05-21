@@ -145,6 +145,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Sum of Minimums", "Sum of M
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Welcome to the City", "Welcome to the City\Welcome to the City.csproj", "{0FEEC9DF-225B-4E41-BFA9-5C0E6FCC3C6D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Remove the minimum", "Remove the minimum\Remove the minimum.csproj", "{312A6F5B-73C8-4EB2-AEEA-6E9B73A99728}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -427,6 +429,10 @@ Global
 		{0FEEC9DF-225B-4E41-BFA9-5C0E6FCC3C6D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0FEEC9DF-225B-4E41-BFA9-5C0E6FCC3C6D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0FEEC9DF-225B-4E41-BFA9-5C0E6FCC3C6D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{312A6F5B-73C8-4EB2-AEEA-6E9B73A99728}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{312A6F5B-73C8-4EB2-AEEA-6E9B73A99728}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{312A6F5B-73C8-4EB2-AEEA-6E9B73A99728}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{312A6F5B-73C8-4EB2-AEEA-6E9B73A99728}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -501,6 +507,7 @@ Global
 		{734F99DB-DDEC-40DF-BF1B-DD60257F07D5} = {A850A139-9651-4249-AF33-975C3B23D915}
 		{BE98529D-2822-4D33-8E1A-339F3C087B0B} = {7DCE8751-8E7A-4726-9A42-303C80B78549}
 		{0FEEC9DF-225B-4E41-BFA9-5C0E6FCC3C6D} = {A850A139-9651-4249-AF33-975C3B23D915}
+		{312A6F5B-73C8-4EB2-AEEA-6E9B73A99728} = {7DCE8751-8E7A-4726-9A42-303C80B78549}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {F369E5DA-EE44-438C-BA83-429788C9A088}
