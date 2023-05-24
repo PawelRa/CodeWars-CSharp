@@ -10,20 +10,32 @@ namespace Latin_Squares
     {
         public static int[][] MakeLatinSquare(int n)
         {
-            // Make all rows and columns 1, 2, ..., n
+            int z, i;
+            z = i = 0;
             int[][] latinSquare = new int[n][];
-            for (int i = 0; i < n; i++)
+            var arr = new int[n];
+
+            for (int x = 0; x < n; x++)
+                arr[x] = x + 1;
+
+            latinSquare[z] = new int[n];
+            arr.CopyTo(latinSquare[z], 0);
+            z++;
+
+            while (i < n - 1)
             {
-                latinSquare[i] = new int[n];
-                for (int j = 0; j < n; j++)
+                for (int x = 0; x < n; x++)
                 {
-                    latinSquare[i][j] = j + 1 % n + 1;
+                    int per = arr[x];
+                    arr[x] = arr[n - 1];
+                    arr[n - 1] = per;
                 }
+
+                latinSquare[z] = new int[n];
+                arr.CopyTo(latinSquare[z], 0);
+                z++;
+                i++;
             }
-
-            // Make changes
-            // Modify the Latin square if needed
-
             return latinSquare;
         }
     }
