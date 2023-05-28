@@ -159,6 +159,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Reversed sequence", "Revers
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Jenny's secret message", "Jenny's secret message\Jenny's secret message.csproj", "{942D123B-C0AE-44FA-8734-5168B15D19E4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Array plus array", "Array plus array\Array plus array.csproj", "{BC771541-2425-4BF8-BD7F-B84C5DD19281}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -469,6 +471,10 @@ Global
 		{942D123B-C0AE-44FA-8734-5168B15D19E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{942D123B-C0AE-44FA-8734-5168B15D19E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{942D123B-C0AE-44FA-8734-5168B15D19E4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BC771541-2425-4BF8-BD7F-B84C5DD19281}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC771541-2425-4BF8-BD7F-B84C5DD19281}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC771541-2425-4BF8-BD7F-B84C5DD19281}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC771541-2425-4BF8-BD7F-B84C5DD19281}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -550,6 +556,7 @@ Global
 		{EB735BA2-36DD-4024-8DC6-E63125D93366} = {7DCE8751-8E7A-4726-9A42-303C80B78549}
 		{0B42C916-6243-4071-BDF6-F2406E716C79} = {A850A139-9651-4249-AF33-975C3B23D915}
 		{942D123B-C0AE-44FA-8734-5168B15D19E4} = {A850A139-9651-4249-AF33-975C3B23D915}
+		{BC771541-2425-4BF8-BD7F-B84C5DD19281} = {A850A139-9651-4249-AF33-975C3B23D915}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {F369E5DA-EE44-438C-BA83-429788C9A088}
