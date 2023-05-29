@@ -10,13 +10,7 @@ namespace Array_plus_array
     {
         public static int ArrayPlusArray(int[] arr1, int[] arr2)
         {
-            int result = 0;
-
-            foreach (int i in arr1) { result += i; }
-
-            foreach (int i in arr2) { result += i; }
-
-            return result;
+            return arr1.Sum() + arr2.Sum();
         }
     }
 }
