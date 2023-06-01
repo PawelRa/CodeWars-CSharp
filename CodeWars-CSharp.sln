@@ -155,15 +155,17 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "School Paperwork", "School 
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Length and two values", "Length and two values\Length and two values.csproj", "{EB735BA2-36DD-4024-8DC6-E63125D93366}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Reversed sequence", "Reversed sequence\Reversed sequence.csproj", "{0B42C916-6243-4071-BDF6-F2406E716C79}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Reversed sequence", "Reversed sequence\Reversed sequence.csproj", "{0B42C916-6243-4071-BDF6-F2406E716C79}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Jenny's secret message", "Jenny's secret message\Jenny's secret message.csproj", "{942D123B-C0AE-44FA-8734-5168B15D19E4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Jenny's secret message", "Jenny's secret message\Jenny's secret message.csproj", "{942D123B-C0AE-44FA-8734-5168B15D19E4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Array plus array", "Array plus array\Array plus array.csproj", "{BC771541-2425-4BF8-BD7F-B84C5DD19281}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Array plus array", "Array plus array\Array plus array.csproj", "{BC771541-2425-4BF8-BD7F-B84C5DD19281}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Is he gonna survive", "Is he gonna survive\Is he gonna survive.csproj", "{3E64899E-7DD2-451D-B865-C935C52FB695}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Is he gonna survive", "Is he gonna survive\Is he gonna survive.csproj", "{3E64899E-7DD2-451D-B865-C935C52FB695}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Quadrants", "Quadrants\Quadrants.csproj", "{485B9156-E22E-452F-AC68-20262204F01B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Quadrants", "Quadrants\Quadrants.csproj", "{485B9156-E22E-452F-AC68-20262204F01B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5 without numbers", "5 without numbers\5 without numbers.csproj", "{F3B278D7-D833-4882-A3D1-0725097DA963}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -487,6 +489,10 @@ Global
 		{485B9156-E22E-452F-AC68-20262204F01B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{485B9156-E22E-452F-AC68-20262204F01B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{485B9156-E22E-452F-AC68-20262204F01B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F3B278D7-D833-4882-A3D1-0725097DA963}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F3B278D7-D833-4882-A3D1-0725097DA963}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F3B278D7-D833-4882-A3D1-0725097DA963}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F3B278D7-D833-4882-A3D1-0725097DA963}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -571,6 +577,7 @@ Global
 		{BC771541-2425-4BF8-BD7F-B84C5DD19281} = {A850A139-9651-4249-AF33-975C3B23D915}
 		{3E64899E-7DD2-451D-B865-C935C52FB695} = {A850A139-9651-4249-AF33-975C3B23D915}
 		{485B9156-E22E-452F-AC68-20262204F01B} = {A850A139-9651-4249-AF33-975C3B23D915}
+		{F3B278D7-D833-4882-A3D1-0725097DA963} = {A850A139-9651-4249-AF33-975C3B23D915}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {F369E5DA-EE44-438C-BA83-429788C9A088}
