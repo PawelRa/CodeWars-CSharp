@@ -11,8 +11,7 @@ namespace _5_without_numbers
     {
         public static int UnusualFive()
         {
-            string[] result = new string[] {"a","b","c","d","e","f"};
-            return Array.IndexOf(result,"f");
+            return "abcde".Length;
         }
     }
 }
