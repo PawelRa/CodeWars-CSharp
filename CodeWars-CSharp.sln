@@ -165,7 +165,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Is he gonna survive", "Is h
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Quadrants", "Quadrants\Quadrants.csproj", "{485B9156-E22E-452F-AC68-20262204F01B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5 without numbers", "5 without numbers\5 without numbers.csproj", "{F3B278D7-D833-4882-A3D1-0725097DA963}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "5 without numbers", "5 without numbers\5 without numbers.csproj", "{F3B278D7-D833-4882-A3D1-0725097DA963}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Returning Strings", "Returning Strings\Returning Strings.csproj", "{28BF28DA-0C98-4713-9F9E-A21DCF9E6DCD}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -493,6 +495,10 @@ Global
 		{F3B278D7-D833-4882-A3D1-0725097DA963}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F3B278D7-D833-4882-A3D1-0725097DA963}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F3B278D7-D833-4882-A3D1-0725097DA963}.Release|Any CPU.Build.0 = Release|Any CPU
+		{28BF28DA-0C98-4713-9F9E-A21DCF9E6DCD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{28BF28DA-0C98-4713-9F9E-A21DCF9E6DCD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{28BF28DA-0C98-4713-9F9E-A21DCF9E6DCD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{28BF28DA-0C98-4713-9F9E-A21DCF9E6DCD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -578,6 +584,7 @@ Global
 		{3E64899E-7DD2-451D-B865-C935C52FB695} = {A850A139-9651-4249-AF33-975C3B23D915}
 		{485B9156-E22E-452F-AC68-20262204F01B} = {A850A139-9651-4249-AF33-975C3B23D915}
 		{F3B278D7-D833-4882-A3D1-0725097DA963} = {A850A139-9651-4249-AF33-975C3B23D915}
+		{28BF28DA-0C98-4713-9F9E-A21DCF9E6DCD} = {A850A139-9651-4249-AF33-975C3B23D915}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {F369E5DA-EE44-438C-BA83-429788C9A088}
