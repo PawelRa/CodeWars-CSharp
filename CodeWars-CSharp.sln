@@ -169,11 +169,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "5 without numbers", "5 with
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Returning Strings", "Returning Strings\Returning Strings.csproj", "{28BF28DA-0C98-4713-9F9E-A21DCF9E6DCD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Expressions Matter", "Expressions Matter\Expressions Matter.csproj", "{66715E11-EA16-4423-BE01-6C4A0FDBD9B8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Expressions Matter", "Expressions Matter\Expressions Matter.csproj", "{66715E11-EA16-4423-BE01-6C4A0FDBD9B8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Check for factor", "Check for factor\Check for factor.csproj", "{E533620D-8C2C-4A19-87CD-B53B9E878FBF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Check for factor", "Check for factor\Check for factor.csproj", "{E533620D-8C2C-4A19-87CD-B53B9E878FBF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Convert number to reversed array of digits", "Convert number to reversed array of digits\Convert number to reversed array of digits.csproj", "{0D92F752-E457-4049-B81D-D6FB2BB66A22}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Convert number to reversed array of digits", "Convert number to reversed array of digits\Convert number to reversed array of digits.csproj", "{0D92F752-E457-4049-B81D-D6FB2BB66A22}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Convert boolean values to strings", "Convert boolean values to strings\Convert boolean values to strings.csproj", "{922B921D-FCEC-4767-9B72-47095EC7C095}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -517,6 +519,10 @@ Global
 		{0D92F752-E457-4049-B81D-D6FB2BB66A22}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0D92F752-E457-4049-B81D-D6FB2BB66A22}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0D92F752-E457-4049-B81D-D6FB2BB66A22}.Release|Any CPU.Build.0 = Release|Any CPU
+		{922B921D-FCEC-4767-9B72-47095EC7C095}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{922B921D-FCEC-4767-9B72-47095EC7C095}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{922B921D-FCEC-4767-9B72-47095EC7C095}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{922B921D-FCEC-4767-9B72-47095EC7C095}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -606,6 +612,7 @@ Global
 		{66715E11-EA16-4423-BE01-6C4A0FDBD9B8} = {A850A139-9651-4249-AF33-975C3B23D915}
 		{E533620D-8C2C-4A19-87CD-B53B9E878FBF} = {A850A139-9651-4249-AF33-975C3B23D915}
 		{0D92F752-E457-4049-B81D-D6FB2BB66A22} = {A850A139-9651-4249-AF33-975C3B23D915}
+		{922B921D-FCEC-4767-9B72-47095EC7C095} = {A850A139-9651-4249-AF33-975C3B23D915}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {F369E5DA-EE44-438C-BA83-429788C9A088}
