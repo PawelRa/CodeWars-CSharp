@@ -181,6 +181,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Find the smallest integer i
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Grasshopper - Debug sayHello", "Grasshopper - Debug sayHello\Grasshopper - Debug sayHello.csproj", "{653C3575-9E17-42BF-8561-08C23CDFEBE8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Super Duper Easy", "Super Duper Easy\Super Duper Easy.csproj", "{1DB4F5DD-CE09-4602-BCCE-C21C7BD877BB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -535,6 +537,10 @@ Global
 		{653C3575-9E17-42BF-8561-08C23CDFEBE8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{653C3575-9E17-42BF-8561-08C23CDFEBE8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{653C3575-9E17-42BF-8561-08C23CDFEBE8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1DB4F5DD-CE09-4602-BCCE-C21C7BD877BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1DB4F5DD-CE09-4602-BCCE-C21C7BD877BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1DB4F5DD-CE09-4602-BCCE-C21C7BD877BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1DB4F5DD-CE09-4602-BCCE-C21C7BD877BB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -627,6 +633,7 @@ Global
 		{922B921D-FCEC-4767-9B72-47095EC7C095} = {A850A139-9651-4249-AF33-975C3B23D915}
 		{70129464-B52A-44AA-BA67-8C82D2B41316} = {A850A139-9651-4249-AF33-975C3B23D915}
 		{653C3575-9E17-42BF-8561-08C23CDFEBE8} = {A850A139-9651-4249-AF33-975C3B23D915}
+		{1DB4F5DD-CE09-4602-BCCE-C21C7BD877BB} = {A850A139-9651-4249-AF33-975C3B23D915}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {F369E5DA-EE44-438C-BA83-429788C9A088}

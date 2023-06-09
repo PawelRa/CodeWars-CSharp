@@ -1,0 +1,1 @@
+﻿Console.WriteLine(Super_Duper_Easy.Kata.Problem("1.2"));
