@@ -177,6 +177,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Convert number to reversed 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Convert boolean values to strings", "Convert boolean values to strings\Convert boolean values to strings.csproj", "{922B921D-FCEC-4767-9B72-47095EC7C095}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Find the smallest integer in the array", "Find the smallest integer in the array\Find the smallest integer in the array.csproj", "{70129464-B52A-44AA-BA67-8C82D2B41316}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -523,6 +525,10 @@ Global
 		{922B921D-FCEC-4767-9B72-47095EC7C095}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{922B921D-FCEC-4767-9B72-47095EC7C095}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{922B921D-FCEC-4767-9B72-47095EC7C095}.Release|Any CPU.Build.0 = Release|Any CPU
+		{70129464-B52A-44AA-BA67-8C82D2B41316}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{70129464-B52A-44AA-BA67-8C82D2B41316}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{70129464-B52A-44AA-BA67-8C82D2B41316}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{70129464-B52A-44AA-BA67-8C82D2B41316}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -613,6 +619,7 @@ Global
 		{E533620D-8C2C-4A19-87CD-B53B9E878FBF} = {A850A139-9651-4249-AF33-975C3B23D915}
 		{0D92F752-E457-4049-B81D-D6FB2BB66A22} = {A850A139-9651-4249-AF33-975C3B23D915}
 		{922B921D-FCEC-4767-9B72-47095EC7C095} = {A850A139-9651-4249-AF33-975C3B23D915}
+		{70129464-B52A-44AA-BA67-8C82D2B41316} = {A850A139-9651-4249-AF33-975C3B23D915}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {F369E5DA-EE44-438C-BA83-429788C9A088}
