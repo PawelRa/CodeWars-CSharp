@@ -185,6 +185,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Super Duper Easy", "Super D
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vowel remover", "Vowel remover\Vowel remover.csproj", "{AECB8791-AFD7-4907-B007-A47C81FAC114}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Capitalization and Mutability", "Capitalization and Mutability\Capitalization and Mutability.csproj", "{61AFBE99-327B-4488-AB9F-9A4BB3AA77A6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -547,6 +549,10 @@ Global
 		{AECB8791-AFD7-4907-B007-A47C81FAC114}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AECB8791-AFD7-4907-B007-A47C81FAC114}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AECB8791-AFD7-4907-B007-A47C81FAC114}.Release|Any CPU.Build.0 = Release|Any CPU
+		{61AFBE99-327B-4488-AB9F-9A4BB3AA77A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{61AFBE99-327B-4488-AB9F-9A4BB3AA77A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{61AFBE99-327B-4488-AB9F-9A4BB3AA77A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{61AFBE99-327B-4488-AB9F-9A4BB3AA77A6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -641,6 +647,7 @@ Global
 		{653C3575-9E17-42BF-8561-08C23CDFEBE8} = {A850A139-9651-4249-AF33-975C3B23D915}
 		{1DB4F5DD-CE09-4602-BCCE-C21C7BD877BB} = {A850A139-9651-4249-AF33-975C3B23D915}
 		{AECB8791-AFD7-4907-B007-A47C81FAC114} = {A850A139-9651-4249-AF33-975C3B23D915}
+		{61AFBE99-327B-4488-AB9F-9A4BB3AA77A6} = {A850A139-9651-4249-AF33-975C3B23D915}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {F369E5DA-EE44-438C-BA83-429788C9A088}

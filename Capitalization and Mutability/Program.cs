@@ -1,0 +1,1 @@
+﻿Console.WriteLine(Capitalization_and_Mutability.Kata.CapitalizeWord("word"));
