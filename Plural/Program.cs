@@ -1,0 +1,1 @@
+﻿Console.WriteLine(Plural.Kata.Plural(5));
