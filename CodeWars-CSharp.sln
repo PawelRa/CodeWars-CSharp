@@ -193,6 +193,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Plural", "Plural\Plural.csp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Short Long Short", "Short Long Short\Short Long Short.csproj", "{EA2C6E4E-CA6E-458C-BA59-311D5B791DAB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Price of Mangoes", "Price of Mangoes\Price of Mangoes.csproj", "{86B8FBDC-48BB-423A-9173-64475BC3312F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -571,6 +573,10 @@ Global
 		{EA2C6E4E-CA6E-458C-BA59-311D5B791DAB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EA2C6E4E-CA6E-458C-BA59-311D5B791DAB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EA2C6E4E-CA6E-458C-BA59-311D5B791DAB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{86B8FBDC-48BB-423A-9173-64475BC3312F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{86B8FBDC-48BB-423A-9173-64475BC3312F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{86B8FBDC-48BB-423A-9173-64475BC3312F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{86B8FBDC-48BB-423A-9173-64475BC3312F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -669,6 +675,7 @@ Global
 		{2639FC0F-8C10-4BB7-AD56-5FABF84BDB84} = {A850A139-9651-4249-AF33-975C3B23D915}
 		{88C9FEFE-952B-449C-BE1F-8C0957997285} = {A850A139-9651-4249-AF33-975C3B23D915}
 		{EA2C6E4E-CA6E-458C-BA59-311D5B791DAB} = {A850A139-9651-4249-AF33-975C3B23D915}
+		{86B8FBDC-48BB-423A-9173-64475BC3312F} = {A850A139-9651-4249-AF33-975C3B23D915}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {F369E5DA-EE44-438C-BA83-429788C9A088}
