@@ -1,0 +1,1 @@
+﻿Console.WriteLine(L1SetAlarm.Kata.SetAlarm(true,false));
