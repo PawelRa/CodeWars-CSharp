@@ -197,6 +197,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Price of Mangoes", "Price o
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "L1SetAlarm", "L1SetAlarm\L1SetAlarm.csproj", "{C1163FF3-433E-4C3D-BC13-A7C6CD4BCBCC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MakeUpperCase", "MakeUpperCase\MakeUpperCase.csproj", "{595D351B-4D6A-40B3-B3AA-D028031CEA8E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -583,6 +585,10 @@ Global
 		{C1163FF3-433E-4C3D-BC13-A7C6CD4BCBCC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C1163FF3-433E-4C3D-BC13-A7C6CD4BCBCC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C1163FF3-433E-4C3D-BC13-A7C6CD4BCBCC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{595D351B-4D6A-40B3-B3AA-D028031CEA8E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{595D351B-4D6A-40B3-B3AA-D028031CEA8E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{595D351B-4D6A-40B3-B3AA-D028031CEA8E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{595D351B-4D6A-40B3-B3AA-D028031CEA8E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -683,6 +689,7 @@ Global
 		{EA2C6E4E-CA6E-458C-BA59-311D5B791DAB} = {A850A139-9651-4249-AF33-975C3B23D915}
 		{86B8FBDC-48BB-423A-9173-64475BC3312F} = {A850A139-9651-4249-AF33-975C3B23D915}
 		{C1163FF3-433E-4C3D-BC13-A7C6CD4BCBCC} = {A850A139-9651-4249-AF33-975C3B23D915}
+		{595D351B-4D6A-40B3-B3AA-D028031CEA8E} = {A850A139-9651-4249-AF33-975C3B23D915}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {F369E5DA-EE44-438C-BA83-429788C9A088}
