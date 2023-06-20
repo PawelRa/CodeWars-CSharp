@@ -191,13 +191,15 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Grasshopper - If-else synta
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Plural", "Plural\Plural.csproj", "{88C9FEFE-952B-449C-BE1F-8C0957997285}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Short Long Short", "Short Long Short\Short Long Short.csproj", "{EA2C6E4E-CA6E-458C-BA59-311D5B791DAB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Short Long Short", "Short Long Short\Short Long Short.csproj", "{EA2C6E4E-CA6E-458C-BA59-311D5B791DAB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Price of Mangoes", "Price of Mangoes\Price of Mangoes.csproj", "{86B8FBDC-48BB-423A-9173-64475BC3312F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Price of Mangoes", "Price of Mangoes\Price of Mangoes.csproj", "{86B8FBDC-48BB-423A-9173-64475BC3312F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "L1SetAlarm", "L1SetAlarm\L1SetAlarm.csproj", "{C1163FF3-433E-4C3D-BC13-A7C6CD4BCBCC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "L1SetAlarm", "L1SetAlarm\L1SetAlarm.csproj", "{C1163FF3-433E-4C3D-BC13-A7C6CD4BCBCC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MakeUpperCase", "MakeUpperCase\MakeUpperCase.csproj", "{595D351B-4D6A-40B3-B3AA-D028031CEA8E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MakeUpperCase", "MakeUpperCase\MakeUpperCase.csproj", "{595D351B-4D6A-40B3-B3AA-D028031CEA8E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Regex validate PIN code", "Regex validate PIN code\Regex validate PIN code.csproj", "{AAF521E6-A8D5-4AF4-9974-322EA837E54D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -589,6 +591,10 @@ Global
 		{595D351B-4D6A-40B3-B3AA-D028031CEA8E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{595D351B-4D6A-40B3-B3AA-D028031CEA8E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{595D351B-4D6A-40B3-B3AA-D028031CEA8E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AAF521E6-A8D5-4AF4-9974-322EA837E54D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AAF521E6-A8D5-4AF4-9974-322EA837E54D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AAF521E6-A8D5-4AF4-9974-322EA837E54D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AAF521E6-A8D5-4AF4-9974-322EA837E54D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -690,6 +696,7 @@ Global
 		{86B8FBDC-48BB-423A-9173-64475BC3312F} = {A850A139-9651-4249-AF33-975C3B23D915}
 		{C1163FF3-433E-4C3D-BC13-A7C6CD4BCBCC} = {A850A139-9651-4249-AF33-975C3B23D915}
 		{595D351B-4D6A-40B3-B3AA-D028031CEA8E} = {A850A139-9651-4249-AF33-975C3B23D915}
+		{AAF521E6-A8D5-4AF4-9974-322EA837E54D} = {7DCE8751-8E7A-4726-9A42-303C80B78549}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {F369E5DA-EE44-438C-BA83-429788C9A088}
