@@ -1,0 +1,1 @@
+﻿Console.WriteLine(Sum_of_Multiples.Kata.SumMul(0, 20));
