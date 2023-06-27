@@ -211,7 +211,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "How many lightsabers do you
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Fake Binary", "Fake Binary\Fake Binary.csproj", "{50F7E21C-63D7-4058-A857-F561A5938731}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sum of Multiples", "Sum of Multiples\Sum of Multiples.csproj", "{BEF50DBF-4BBE-4E9D-804D-F22345FB4F50}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Sum of Multiples", "Sum of Multiples\Sum of Multiples.csproj", "{BEF50DBF-4BBE-4E9D-804D-F22345FB4F50}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "No zeros for heros", "No zeros for heros\No zeros for heros.csproj", "{F63E0A98-53AE-44D0-BDDE-D6804CE537C3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -631,6 +633,10 @@ Global
 		{BEF50DBF-4BBE-4E9D-804D-F22345FB4F50}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BEF50DBF-4BBE-4E9D-804D-F22345FB4F50}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BEF50DBF-4BBE-4E9D-804D-F22345FB4F50}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F63E0A98-53AE-44D0-BDDE-D6804CE537C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F63E0A98-53AE-44D0-BDDE-D6804CE537C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F63E0A98-53AE-44D0-BDDE-D6804CE537C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F63E0A98-53AE-44D0-BDDE-D6804CE537C3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -739,6 +745,7 @@ Global
 		{DE36E355-EA74-4D3A-8337-908BB34CF440} = {A850A139-9651-4249-AF33-975C3B23D915}
 		{50F7E21C-63D7-4058-A857-F561A5938731} = {A850A139-9651-4249-AF33-975C3B23D915}
 		{BEF50DBF-4BBE-4E9D-804D-F22345FB4F50} = {A850A139-9651-4249-AF33-975C3B23D915}
+		{F63E0A98-53AE-44D0-BDDE-D6804CE537C3} = {A850A139-9651-4249-AF33-975C3B23D915}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {F369E5DA-EE44-438C-BA83-429788C9A088}
