@@ -6,11 +6,22 @@ namespace No_zeros_for_heros
     {
         public static int NoBoringZeros(int n)
         {
-            while (n % 10 == 0)
+            string tempStringValue = n.ToString();
+            int homManyZeros = 1;
+
+            for (int i = tempStringValue.Length - 1; i >= 0; i--)
             {
-                n = n / 10;
+
+                if (tempStringValue[i] == '0')
+                {
+                    homManyZeros *= 10;
+                }
+                else
+                {
+                    break;
+                }
             }
-            return n;
+            return n / homManyZeros;
         }
     }
 }
