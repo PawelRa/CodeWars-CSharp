@@ -1,1 +1,1 @@
-﻿Console.WriteLine(School_Paperwork.Paper.Paperwork(-5,-5));
+﻿Console.WriteLine(School_Paperwork.Paper.Paperwork(-5, -5));
