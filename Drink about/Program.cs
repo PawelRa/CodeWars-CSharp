@@ -1,0 +1,1 @@
+﻿Console.WriteLine(Drink_about.Kata.PeopleWithAgeDrink(22));
