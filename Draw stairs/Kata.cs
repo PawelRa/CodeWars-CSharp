@@ -15,11 +15,7 @@ namespace Draw_stairs
             for (int i = 1; i < n; i++)
             {
                 result += "\n";
-                for (int j = 0; j < i; j++)
-                {
-                    result += " ";
-                }
-
+                result += new String(' ', i);
                 result += "I";
             }
 
