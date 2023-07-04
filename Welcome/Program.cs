@@ -1,0 +1,1 @@
+﻿Console.WriteLine(Welcome.Kata.Greet("2"));
