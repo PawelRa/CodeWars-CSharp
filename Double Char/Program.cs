@@ -1,0 +1,1 @@
+﻿Console.WriteLine(Double_Char.Kata.DoubleChar("Adidas"));

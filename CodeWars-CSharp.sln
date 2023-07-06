@@ -221,7 +221,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Draw stairs", "Draw stairs\
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Welcome", "Welcome\Welcome.csproj", "{9D006A71-00C1-41FA-9C56-2C214EE94253}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Basic Mathematical Operations", "Basic Mathematical Operations\Basic Mathematical Operations.csproj", "{2B44555B-14D9-4915-921C-2A64275563C4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Basic Mathematical Operations", "Basic Mathematical Operations\Basic Mathematical Operations.csproj", "{2B44555B-14D9-4915-921C-2A64275563C4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Double Char", "Double Char\Double Char.csproj", "{E4C58DA2-EEF1-46C1-A8AF-8C450D7FB5D3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -661,6 +663,10 @@ Global
 		{2B44555B-14D9-4915-921C-2A64275563C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2B44555B-14D9-4915-921C-2A64275563C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2B44555B-14D9-4915-921C-2A64275563C4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E4C58DA2-EEF1-46C1-A8AF-8C450D7FB5D3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E4C58DA2-EEF1-46C1-A8AF-8C450D7FB5D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E4C58DA2-EEF1-46C1-A8AF-8C450D7FB5D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E4C58DA2-EEF1-46C1-A8AF-8C450D7FB5D3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -774,6 +780,7 @@ Global
 		{C8770EBF-82BB-473D-B8D7-8EEDCB4E4A5E} = {A850A139-9651-4249-AF33-975C3B23D915}
 		{9D006A71-00C1-41FA-9C56-2C214EE94253} = {A850A139-9651-4249-AF33-975C3B23D915}
 		{2B44555B-14D9-4915-921C-2A64275563C4} = {A850A139-9651-4249-AF33-975C3B23D915}
+		{E4C58DA2-EEF1-46C1-A8AF-8C450D7FB5D3} = {A850A139-9651-4249-AF33-975C3B23D915}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {F369E5DA-EE44-438C-BA83-429788C9A088}
