@@ -1,26 +1,20 @@
-﻿namespace Removing_Elements
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+
+namespace Removing_Elements
 {
     public static class Kata
     {
         public static object[] RemoveEveryOther(object[] arr)
         {
-            if (arr.Length < 3) { return arr; }
 
-            object[] result = new object[arr.Length];
-            int empty = 0;
-            for (int i = 0; i < arr.Length; i++)
+            var list = new List<object>();
+            for (int i = 0; i < arr.Count(); i += 2)
             {
-                if (i % 2 == 0)
-                {
-                    result[i] = arr[i];
-                }
-                else
-                {
-                    empty++;
-                }
+                list.Add(arr[i]);
             }
-            Console.WriteLine(empty);
-            return result;
+            return list.ToArray();
         }
     }
 }
