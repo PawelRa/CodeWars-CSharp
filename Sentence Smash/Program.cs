@@ -1,0 +1,1 @@
+﻿Console.WriteLine(Sentence_Smash.Kata.Smash(new string[] { "this", "is", "a", "really", "long", "sentence" }));
