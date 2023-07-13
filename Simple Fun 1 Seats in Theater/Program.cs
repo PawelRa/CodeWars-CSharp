@@ -1,0 +1,1 @@
+﻿Console.WriteLine(Simple_Fun_1_Seats_in_Theater.Kata.SeatsInTheater(16, 11, 5, 3));

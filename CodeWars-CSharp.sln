@@ -235,6 +235,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "A Needle in the Haystack", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Convert a string to an array", "Convert a string to an array\Convert a string to an array.csproj", "{6C808712-BEA1-47FD-99EC-3E2AB6A624AF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Simple Fun 1 Seats in Theater", "Simple Fun 1 Seats in Theater\Simple Fun 1 Seats in Theater.csproj", "{879B3204-BD72-4BE1-A01A-7FC17D16F59F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -697,6 +699,10 @@ Global
 		{6C808712-BEA1-47FD-99EC-3E2AB6A624AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6C808712-BEA1-47FD-99EC-3E2AB6A624AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6C808712-BEA1-47FD-99EC-3E2AB6A624AF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{879B3204-BD72-4BE1-A01A-7FC17D16F59F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{879B3204-BD72-4BE1-A01A-7FC17D16F59F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{879B3204-BD72-4BE1-A01A-7FC17D16F59F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{879B3204-BD72-4BE1-A01A-7FC17D16F59F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -816,6 +822,7 @@ Global
 		{E551F25A-1C5A-49FE-A138-D20CFDD2362E} = {A850A139-9651-4249-AF33-975C3B23D915}
 		{CF508964-4619-4ABB-AFF8-4BA2F44B85BF} = {A850A139-9651-4249-AF33-975C3B23D915}
 		{6C808712-BEA1-47FD-99EC-3E2AB6A624AF} = {A850A139-9651-4249-AF33-975C3B23D915}
+		{879B3204-BD72-4BE1-A01A-7FC17D16F59F} = {A850A139-9651-4249-AF33-975C3B23D915}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {F369E5DA-EE44-438C-BA83-429788C9A088}
