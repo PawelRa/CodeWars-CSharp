@@ -1,0 +1,1 @@
+﻿Console.WriteLine(How_good_are_you_really.Kata.BetterThanAverage(new int[] { 100, 40, 34, 57, 29, 72, 57, 88 }, 75));
