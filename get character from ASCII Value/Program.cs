@@ -1,0 +1,1 @@
+﻿Console.WriteLine(get_character_from_ASCII_Value.Kata.GetChar(57));

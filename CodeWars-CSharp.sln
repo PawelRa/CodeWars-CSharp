@@ -239,6 +239,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Simple Fun 1 Seats in Theat
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "How good are you really", "How good are you really\How good are you really.csproj", "{5442C236-3AE2-426B-B94D-4F9F767CBCD2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "get character from ASCII Value", "get character from ASCII Value\get character from ASCII Value.csproj", "{1FA9719C-D121-4A50-93F4-E69C497C4D50}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -709,6 +711,10 @@ Global
 		{5442C236-3AE2-426B-B94D-4F9F767CBCD2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5442C236-3AE2-426B-B94D-4F9F767CBCD2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5442C236-3AE2-426B-B94D-4F9F767CBCD2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1FA9719C-D121-4A50-93F4-E69C497C4D50}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1FA9719C-D121-4A50-93F4-E69C497C4D50}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1FA9719C-D121-4A50-93F4-E69C497C4D50}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1FA9719C-D121-4A50-93F4-E69C497C4D50}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -830,6 +836,7 @@ Global
 		{6C808712-BEA1-47FD-99EC-3E2AB6A624AF} = {A850A139-9651-4249-AF33-975C3B23D915}
 		{879B3204-BD72-4BE1-A01A-7FC17D16F59F} = {A850A139-9651-4249-AF33-975C3B23D915}
 		{5442C236-3AE2-426B-B94D-4F9F767CBCD2} = {A850A139-9651-4249-AF33-975C3B23D915}
+		{1FA9719C-D121-4A50-93F4-E69C497C4D50} = {A850A139-9651-4249-AF33-975C3B23D915}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {F369E5DA-EE44-438C-BA83-429788C9A088}
