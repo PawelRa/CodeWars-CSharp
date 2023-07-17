@@ -1,0 +1,1 @@
+﻿Console.WriteLine(Triple_Trouble.Kata.TripleTrouble("this", "test", "lock"));

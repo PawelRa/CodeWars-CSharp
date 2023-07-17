@@ -241,6 +241,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "How good are you really", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "get character from ASCII Value", "get character from ASCII Value\get character from ASCII Value.csproj", "{1FA9719C-D121-4A50-93F4-E69C497C4D50}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Triple Trouble", "Triple Trouble\Triple Trouble.csproj", "{C6C17720-27C8-4AC6-8DA8-A064CD9EC0E4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -715,6 +717,10 @@ Global
 		{1FA9719C-D121-4A50-93F4-E69C497C4D50}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1FA9719C-D121-4A50-93F4-E69C497C4D50}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1FA9719C-D121-4A50-93F4-E69C497C4D50}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C6C17720-27C8-4AC6-8DA8-A064CD9EC0E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C6C17720-27C8-4AC6-8DA8-A064CD9EC0E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C6C17720-27C8-4AC6-8DA8-A064CD9EC0E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C6C17720-27C8-4AC6-8DA8-A064CD9EC0E4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -837,6 +843,7 @@ Global
 		{879B3204-BD72-4BE1-A01A-7FC17D16F59F} = {A850A139-9651-4249-AF33-975C3B23D915}
 		{5442C236-3AE2-426B-B94D-4F9F767CBCD2} = {A850A139-9651-4249-AF33-975C3B23D915}
 		{1FA9719C-D121-4A50-93F4-E69C497C4D50} = {A850A139-9651-4249-AF33-975C3B23D915}
+		{C6C17720-27C8-4AC6-8DA8-A064CD9EC0E4} = {A850A139-9651-4249-AF33-975C3B23D915}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {F369E5DA-EE44-438C-BA83-429788C9A088}
