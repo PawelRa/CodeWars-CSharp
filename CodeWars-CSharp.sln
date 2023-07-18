@@ -243,6 +243,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "get character from ASCII Va
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Triple Trouble", "Triple Trouble\Triple Trouble.csproj", "{C6C17720-27C8-4AC6-8DA8-A064CD9EC0E4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Area or Perimeter", "Area or Perimeter\Area or Perimeter.csproj", "{94405A60-0691-480E-B493-F13F0D16E01C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -721,6 +723,10 @@ Global
 		{C6C17720-27C8-4AC6-8DA8-A064CD9EC0E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C6C17720-27C8-4AC6-8DA8-A064CD9EC0E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C6C17720-27C8-4AC6-8DA8-A064CD9EC0E4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{94405A60-0691-480E-B493-F13F0D16E01C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{94405A60-0691-480E-B493-F13F0D16E01C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{94405A60-0691-480E-B493-F13F0D16E01C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{94405A60-0691-480E-B493-F13F0D16E01C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -844,6 +850,7 @@ Global
 		{5442C236-3AE2-426B-B94D-4F9F767CBCD2} = {A850A139-9651-4249-AF33-975C3B23D915}
 		{1FA9719C-D121-4A50-93F4-E69C497C4D50} = {A850A139-9651-4249-AF33-975C3B23D915}
 		{C6C17720-27C8-4AC6-8DA8-A064CD9EC0E4} = {A850A139-9651-4249-AF33-975C3B23D915}
+		{94405A60-0691-480E-B493-F13F0D16E01C} = {A850A139-9651-4249-AF33-975C3B23D915}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {F369E5DA-EE44-438C-BA83-429788C9A088}
