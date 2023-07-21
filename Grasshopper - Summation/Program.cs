@@ -1,0 +1,1 @@
+﻿Console.WriteLine(Grasshopper___Summation.Kata.summation(8));
