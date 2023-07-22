@@ -1,0 +1,1 @@
+﻿Console.WriteLine(Is_the_string_uppercase.StringExtensions.IsUpperCase("HELLO I AM DONALD"));
