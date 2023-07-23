@@ -1,0 +1,1 @@
+﻿Console.WriteLine(Abbreviate_a_Two_Word_Name.Kata.AbbrevName("sam harris"));
