@@ -1,0 +1,1 @@
+﻿Console.WriteLine(new Dictionary<string, string> { { "sanity", "hello" } });
