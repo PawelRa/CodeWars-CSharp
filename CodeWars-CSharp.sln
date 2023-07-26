@@ -259,6 +259,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Return to Sanity", "Return 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Geometry Basics Distance between points in 2D", "Geometry Basics Distance between points in 2D\Geometry Basics Distance between points in 2D.csproj", "{56403931-8229-4431-94DD-6A9885808E69}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BASIC Making Six Toast", "BASIC Making Six Toast\BASIC Making Six Toast.csproj", "{D33E9AB3-FCF0-48D6-A001-4220C1121AB4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -769,6 +771,10 @@ Global
 		{56403931-8229-4431-94DD-6A9885808E69}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{56403931-8229-4431-94DD-6A9885808E69}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{56403931-8229-4431-94DD-6A9885808E69}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D33E9AB3-FCF0-48D6-A001-4220C1121AB4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D33E9AB3-FCF0-48D6-A001-4220C1121AB4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D33E9AB3-FCF0-48D6-A001-4220C1121AB4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D33E9AB3-FCF0-48D6-A001-4220C1121AB4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -900,6 +906,7 @@ Global
 		{8ED9A8C2-E4A6-4B59-9474-CDD204061642} = {A850A139-9651-4249-AF33-975C3B23D915}
 		{50CCA0DA-02C4-4E48-93EA-9F027CC06EE0} = {A850A139-9651-4249-AF33-975C3B23D915}
 		{56403931-8229-4431-94DD-6A9885808E69} = {A850A139-9651-4249-AF33-975C3B23D915}
+		{D33E9AB3-FCF0-48D6-A001-4220C1121AB4} = {A850A139-9651-4249-AF33-975C3B23D915}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {F369E5DA-EE44-438C-BA83-429788C9A088}
