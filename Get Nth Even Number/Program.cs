@@ -1,0 +1,1 @@
+﻿Console.WriteLine(Get_Nth_Even_Number.Kata.NthEven(3));
