@@ -263,6 +263,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BASIC Making Six Toast", "B
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Get Nth Even Number", "Get Nth Even Number\Get Nth Even Number.csproj", "{C1418029-5A02-404C-AB28-C9036E47E205}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Parse nice int from char problem", "Parse nice int from char problem\Parse nice int from char problem.csproj", "{B47FE300-7C51-40CF-823A-C3141B4569AF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -781,6 +783,10 @@ Global
 		{C1418029-5A02-404C-AB28-C9036E47E205}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C1418029-5A02-404C-AB28-C9036E47E205}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C1418029-5A02-404C-AB28-C9036E47E205}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B47FE300-7C51-40CF-823A-C3141B4569AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B47FE300-7C51-40CF-823A-C3141B4569AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B47FE300-7C51-40CF-823A-C3141B4569AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B47FE300-7C51-40CF-823A-C3141B4569AF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -914,6 +920,7 @@ Global
 		{56403931-8229-4431-94DD-6A9885808E69} = {A850A139-9651-4249-AF33-975C3B23D915}
 		{D33E9AB3-FCF0-48D6-A001-4220C1121AB4} = {A850A139-9651-4249-AF33-975C3B23D915}
 		{C1418029-5A02-404C-AB28-C9036E47E205} = {A850A139-9651-4249-AF33-975C3B23D915}
+		{B47FE300-7C51-40CF-823A-C3141B4569AF} = {A850A139-9651-4249-AF33-975C3B23D915}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {F369E5DA-EE44-438C-BA83-429788C9A088}
