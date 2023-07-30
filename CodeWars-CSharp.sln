@@ -255,15 +255,17 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Is the string uppercase", "
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Abbreviate a Two Word Name", "Abbreviate a Two Word Name\Abbreviate a Two Word Name.csproj", "{8ED9A8C2-E4A6-4B59-9474-CDD204061642}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Return to Sanity", "Return to Sanity\Return to Sanity.csproj", "{50CCA0DA-02C4-4E48-93EA-9F027CC06EE0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Return to Sanity", "Return to Sanity\Return to Sanity.csproj", "{50CCA0DA-02C4-4E48-93EA-9F027CC06EE0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Geometry Basics Distance between points in 2D", "Geometry Basics Distance between points in 2D\Geometry Basics Distance between points in 2D.csproj", "{56403931-8229-4431-94DD-6A9885808E69}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Geometry Basics Distance between points in 2D", "Geometry Basics Distance between points in 2D\Geometry Basics Distance between points in 2D.csproj", "{56403931-8229-4431-94DD-6A9885808E69}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BASIC Making Six Toast", "BASIC Making Six Toast\BASIC Making Six Toast.csproj", "{D33E9AB3-FCF0-48D6-A001-4220C1121AB4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BASIC Making Six Toast", "BASIC Making Six Toast\BASIC Making Six Toast.csproj", "{D33E9AB3-FCF0-48D6-A001-4220C1121AB4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Get Nth Even Number", "Get Nth Even Number\Get Nth Even Number.csproj", "{C1418029-5A02-404C-AB28-C9036E47E205}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Get Nth Even Number", "Get Nth Even Number\Get Nth Even Number.csproj", "{C1418029-5A02-404C-AB28-C9036E47E205}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Parse nice int from char problem", "Parse nice int from char problem\Parse nice int from char problem.csproj", "{B47FE300-7C51-40CF-823A-C3141B4569AF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Parse nice int from char problem", "Parse nice int from char problem\Parse nice int from char problem.csproj", "{B47FE300-7C51-40CF-823A-C3141B4569AF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Find Maximum and Minimum Values of a List", "Find Maximum and Minimum Values of a List\Find Maximum and Minimum Values of a List.csproj", "{1C43A39C-C409-45DC-8438-7AD3BE126BC2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -787,6 +789,10 @@ Global
 		{B47FE300-7C51-40CF-823A-C3141B4569AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B47FE300-7C51-40CF-823A-C3141B4569AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B47FE300-7C51-40CF-823A-C3141B4569AF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1C43A39C-C409-45DC-8438-7AD3BE126BC2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C43A39C-C409-45DC-8438-7AD3BE126BC2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C43A39C-C409-45DC-8438-7AD3BE126BC2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C43A39C-C409-45DC-8438-7AD3BE126BC2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -921,6 +927,7 @@ Global
 		{D33E9AB3-FCF0-48D6-A001-4220C1121AB4} = {A850A139-9651-4249-AF33-975C3B23D915}
 		{C1418029-5A02-404C-AB28-C9036E47E205} = {A850A139-9651-4249-AF33-975C3B23D915}
 		{B47FE300-7C51-40CF-823A-C3141B4569AF} = {A850A139-9651-4249-AF33-975C3B23D915}
+		{1C43A39C-C409-45DC-8438-7AD3BE126BC2} = {A850A139-9651-4249-AF33-975C3B23D915}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {F369E5DA-EE44-438C-BA83-429788C9A088}
