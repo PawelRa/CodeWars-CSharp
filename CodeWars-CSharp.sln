@@ -271,6 +271,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Is it even", "Is it even\Is
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "I love you a little  a lot passionately  not at all", "I love you a little  a lot passionately  not at all\I love you a little  a lot passionately  not at all.csproj", "{94452ACE-1C21-4861-9D7F-C8461CD6FD81}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Convert to Binary", "Convert to Binary\Convert to Binary.csproj", "{1A889023-02E2-440F-A20D-53A6990BF4B8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -805,6 +807,10 @@ Global
 		{94452ACE-1C21-4861-9D7F-C8461CD6FD81}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{94452ACE-1C21-4861-9D7F-C8461CD6FD81}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{94452ACE-1C21-4861-9D7F-C8461CD6FD81}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1A889023-02E2-440F-A20D-53A6990BF4B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A889023-02E2-440F-A20D-53A6990BF4B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A889023-02E2-440F-A20D-53A6990BF4B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A889023-02E2-440F-A20D-53A6990BF4B8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -942,6 +948,7 @@ Global
 		{1C43A39C-C409-45DC-8438-7AD3BE126BC2} = {A850A139-9651-4249-AF33-975C3B23D915}
 		{1CC0B15C-C32B-4160-B6B2-3AC4ABB43DB9} = {A850A139-9651-4249-AF33-975C3B23D915}
 		{94452ACE-1C21-4861-9D7F-C8461CD6FD81} = {A850A139-9651-4249-AF33-975C3B23D915}
+		{1A889023-02E2-440F-A20D-53A6990BF4B8} = {A850A139-9651-4249-AF33-975C3B23D915}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {F369E5DA-EE44-438C-BA83-429788C9A088}
