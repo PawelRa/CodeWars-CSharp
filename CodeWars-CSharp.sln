@@ -273,6 +273,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "I love you a little  a lot 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Convert to Binary", "Convert to Binary\Convert to Binary.csproj", "{1A889023-02E2-440F-A20D-53A6990BF4B8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Beginner - Lost Without a Map", "Beginner - Lost Without a Map\Beginner - Lost Without a Map.csproj", "{A03294E2-1E86-4B2B-B092-7D92C1BBB252}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -811,6 +813,10 @@ Global
 		{1A889023-02E2-440F-A20D-53A6990BF4B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1A889023-02E2-440F-A20D-53A6990BF4B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1A889023-02E2-440F-A20D-53A6990BF4B8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A03294E2-1E86-4B2B-B092-7D92C1BBB252}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A03294E2-1E86-4B2B-B092-7D92C1BBB252}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A03294E2-1E86-4B2B-B092-7D92C1BBB252}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A03294E2-1E86-4B2B-B092-7D92C1BBB252}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -949,6 +955,7 @@ Global
 		{1CC0B15C-C32B-4160-B6B2-3AC4ABB43DB9} = {A850A139-9651-4249-AF33-975C3B23D915}
 		{94452ACE-1C21-4861-9D7F-C8461CD6FD81} = {A850A139-9651-4249-AF33-975C3B23D915}
 		{1A889023-02E2-440F-A20D-53A6990BF4B8} = {A850A139-9651-4249-AF33-975C3B23D915}
+		{A03294E2-1E86-4B2B-B092-7D92C1BBB252} = {A850A139-9651-4249-AF33-975C3B23D915}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {F369E5DA-EE44-438C-BA83-429788C9A088}
