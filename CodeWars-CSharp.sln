@@ -283,6 +283,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Training JS7 if else and te
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Never visit a", "Never visit a\Never visit a.csproj", "{6A189445-F583-4369-9FB1-5434A15A17EF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "You only need one - Beginner", "You only need one - Beginner\You only need one - Beginner.csproj", "{C861F212-0D14-4985-B6B2-A45E90A59BB5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -841,6 +843,10 @@ Global
 		{6A189445-F583-4369-9FB1-5434A15A17EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6A189445-F583-4369-9FB1-5434A15A17EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6A189445-F583-4369-9FB1-5434A15A17EF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C861F212-0D14-4985-B6B2-A45E90A59BB5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C861F212-0D14-4985-B6B2-A45E90A59BB5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C861F212-0D14-4985-B6B2-A45E90A59BB5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C861F212-0D14-4985-B6B2-A45E90A59BB5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -984,6 +990,7 @@ Global
 		{609B7075-2853-476E-80F1-5CD6ADF092BC} = {A850A139-9651-4249-AF33-975C3B23D915}
 		{17AFA77E-1E81-4043-9079-D7250D2B4743} = {A850A139-9651-4249-AF33-975C3B23D915}
 		{6A189445-F583-4369-9FB1-5434A15A17EF} = {A850A139-9651-4249-AF33-975C3B23D915}
+		{C861F212-0D14-4985-B6B2-A45E90A59BB5} = {A850A139-9651-4249-AF33-975C3B23D915}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {F369E5DA-EE44-438C-BA83-429788C9A088}
