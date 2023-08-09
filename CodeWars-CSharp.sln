@@ -285,6 +285,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Never visit a", "Never visi
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "You only need one - Beginner", "You only need one - Beginner\You only need one - Beginner.csproj", "{C861F212-0D14-4985-B6B2-A45E90A59BB5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Count of positives sum of negatives", "Count of positives sum of negatives\Count of positives sum of negatives.csproj", "{A1A54871-EDF0-41F9-A15E-5BFC3CCE4ACC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -847,6 +849,10 @@ Global
 		{C861F212-0D14-4985-B6B2-A45E90A59BB5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C861F212-0D14-4985-B6B2-A45E90A59BB5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C861F212-0D14-4985-B6B2-A45E90A59BB5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A1A54871-EDF0-41F9-A15E-5BFC3CCE4ACC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1A54871-EDF0-41F9-A15E-5BFC3CCE4ACC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1A54871-EDF0-41F9-A15E-5BFC3CCE4ACC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1A54871-EDF0-41F9-A15E-5BFC3CCE4ACC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -991,6 +997,7 @@ Global
 		{17AFA77E-1E81-4043-9079-D7250D2B4743} = {A850A139-9651-4249-AF33-975C3B23D915}
 		{6A189445-F583-4369-9FB1-5434A15A17EF} = {A850A139-9651-4249-AF33-975C3B23D915}
 		{C861F212-0D14-4985-B6B2-A45E90A59BB5} = {A850A139-9651-4249-AF33-975C3B23D915}
+		{A1A54871-EDF0-41F9-A15E-5BFC3CCE4ACC} = {A850A139-9651-4249-AF33-975C3B23D915}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {F369E5DA-EE44-438C-BA83-429788C9A088}
