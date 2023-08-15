@@ -297,6 +297,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Is this my tail", "Is this 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Merge two sorted arrays into one", "Merge two sorted arrays into one\Merge two sorted arrays into one.csproj", "{DA940850-AD2C-4980-91E8-BBEF99B4647E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Alan Partridge II - Apple Turnover", "Alan Partridge II - Apple Turnover\Alan Partridge II - Apple Turnover.csproj", "{14FB0E72-5A5C-4645-A4EC-F589EF13CD61}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -883,6 +885,10 @@ Global
 		{DA940850-AD2C-4980-91E8-BBEF99B4647E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DA940850-AD2C-4980-91E8-BBEF99B4647E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DA940850-AD2C-4980-91E8-BBEF99B4647E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{14FB0E72-5A5C-4645-A4EC-F589EF13CD61}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{14FB0E72-5A5C-4645-A4EC-F589EF13CD61}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{14FB0E72-5A5C-4645-A4EC-F589EF13CD61}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{14FB0E72-5A5C-4645-A4EC-F589EF13CD61}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -1033,6 +1039,7 @@ Global
 		{889679D9-8A79-4592-9542-4805D9398CB6} = {A850A139-9651-4249-AF33-975C3B23D915}
 		{0EAE0658-D5E6-4215-89FA-88E8331C0BBC} = {A850A139-9651-4249-AF33-975C3B23D915}
 		{DA940850-AD2C-4980-91E8-BBEF99B4647E} = {A850A139-9651-4249-AF33-975C3B23D915}
+		{14FB0E72-5A5C-4645-A4EC-F589EF13CD61} = {A850A139-9651-4249-AF33-975C3B23D915}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {F369E5DA-EE44-438C-BA83-429788C9A088}
