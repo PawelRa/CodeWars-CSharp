@@ -295,11 +295,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Convert a Number to a Strin
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Is this my tail", "Is this my tail\Is this my tail.csproj", "{0EAE0658-D5E6-4215-89FA-88E8331C0BBC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Merge two sorted arrays into one", "Merge two sorted arrays into one\Merge two sorted arrays into one.csproj", "{DA940850-AD2C-4980-91E8-BBEF99B4647E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Merge two sorted arrays into one", "Merge two sorted arrays into one\Merge two sorted arrays into one.csproj", "{DA940850-AD2C-4980-91E8-BBEF99B4647E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Alan Partridge II - Apple Turnover", "Alan Partridge II - Apple Turnover\Alan Partridge II - Apple Turnover.csproj", "{14FB0E72-5A5C-4645-A4EC-F589EF13CD61}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Alan Partridge II - Apple Turnover", "Alan Partridge II - Apple Turnover\Alan Partridge II - Apple Turnover.csproj", "{14FB0E72-5A5C-4645-A4EC-F589EF13CD61}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Grasshopper - Messi Goals", "Grasshopper - Messi Goals\Grasshopper - Messi Goals.csproj", "{A48465F8-82AD-4EED-B107-15263C4FF2AE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Grasshopper - Messi Goals", "Grasshopper - Messi Goals\Grasshopper - Messi Goals.csproj", "{A48465F8-82AD-4EED-B107-15263C4FF2AE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Are You Playing Banjo", "Are You Playing Banjo\Are You Playing Banjo.csproj", "{23842F5C-B3E1-4F11-8DD0-DC592EDE3C0D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -895,6 +897,10 @@ Global
 		{A48465F8-82AD-4EED-B107-15263C4FF2AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A48465F8-82AD-4EED-B107-15263C4FF2AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A48465F8-82AD-4EED-B107-15263C4FF2AE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{23842F5C-B3E1-4F11-8DD0-DC592EDE3C0D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{23842F5C-B3E1-4F11-8DD0-DC592EDE3C0D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{23842F5C-B3E1-4F11-8DD0-DC592EDE3C0D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{23842F5C-B3E1-4F11-8DD0-DC592EDE3C0D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -1047,6 +1053,7 @@ Global
 		{DA940850-AD2C-4980-91E8-BBEF99B4647E} = {A850A139-9651-4249-AF33-975C3B23D915}
 		{14FB0E72-5A5C-4645-A4EC-F589EF13CD61} = {A850A139-9651-4249-AF33-975C3B23D915}
 		{A48465F8-82AD-4EED-B107-15263C4FF2AE} = {A850A139-9651-4249-AF33-975C3B23D915}
+		{23842F5C-B3E1-4F11-8DD0-DC592EDE3C0D} = {A850A139-9651-4249-AF33-975C3B23D915}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {F369E5DA-EE44-438C-BA83-429788C9A088}
