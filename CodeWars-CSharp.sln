@@ -303,6 +303,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Grasshopper - Messi Goals",
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Are You Playing Banjo", "Are You Playing Banjo\Are You Playing Banjo.csproj", "{23842F5C-B3E1-4F11-8DD0-DC592EDE3C0D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Crash Override", "Crash Override\Crash Override.csproj", "{05CF8DA2-F502-4B07-AE29-351E450B6852}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -901,6 +903,10 @@ Global
 		{23842F5C-B3E1-4F11-8DD0-DC592EDE3C0D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{23842F5C-B3E1-4F11-8DD0-DC592EDE3C0D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{23842F5C-B3E1-4F11-8DD0-DC592EDE3C0D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{05CF8DA2-F502-4B07-AE29-351E450B6852}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{05CF8DA2-F502-4B07-AE29-351E450B6852}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{05CF8DA2-F502-4B07-AE29-351E450B6852}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{05CF8DA2-F502-4B07-AE29-351E450B6852}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -1054,6 +1060,7 @@ Global
 		{14FB0E72-5A5C-4645-A4EC-F589EF13CD61} = {A850A139-9651-4249-AF33-975C3B23D915}
 		{A48465F8-82AD-4EED-B107-15263C4FF2AE} = {A850A139-9651-4249-AF33-975C3B23D915}
 		{23842F5C-B3E1-4F11-8DD0-DC592EDE3C0D} = {A850A139-9651-4249-AF33-975C3B23D915}
+		{05CF8DA2-F502-4B07-AE29-351E450B6852} = {A850A139-9651-4249-AF33-975C3B23D915}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {F369E5DA-EE44-438C-BA83-429788C9A088}
