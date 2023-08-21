@@ -311,6 +311,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Multiplication table for nu
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Do I get a bonus", "Do I get a bonus\Do I get a bonus.csproj", "{C6BC0388-B770-4455-910D-4BAB6FBB2CCA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sum The Strings", "Sum The Strings\Sum The Strings.csproj", "{7580008A-ACE4-4019-82C8-493B556300E5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -925,6 +927,10 @@ Global
 		{C6BC0388-B770-4455-910D-4BAB6FBB2CCA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C6BC0388-B770-4455-910D-4BAB6FBB2CCA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C6BC0388-B770-4455-910D-4BAB6FBB2CCA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7580008A-ACE4-4019-82C8-493B556300E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7580008A-ACE4-4019-82C8-493B556300E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7580008A-ACE4-4019-82C8-493B556300E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7580008A-ACE4-4019-82C8-493B556300E5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -1082,6 +1088,7 @@ Global
 		{C5C4C84F-E05F-4E5F-9A07-B80093E62915} = {A850A139-9651-4249-AF33-975C3B23D915}
 		{47A4A244-6BD7-4FE9-95E0-2623AC65B5E5} = {A850A139-9651-4249-AF33-975C3B23D915}
 		{C6BC0388-B770-4455-910D-4BAB6FBB2CCA} = {A850A139-9651-4249-AF33-975C3B23D915}
+		{7580008A-ACE4-4019-82C8-493B556300E5} = {A850A139-9651-4249-AF33-975C3B23D915}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {F369E5DA-EE44-438C-BA83-429788C9A088}
