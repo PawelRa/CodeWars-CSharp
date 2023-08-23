@@ -315,6 +315,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Sum The Strings", "Sum The 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Check same case", "Check same case\Check same case.csproj", "{DB28EC0E-A934-43C9-AD55-6622513CDD25}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sum Arrays", "Sum Arrays\Sum Arrays.csproj", "{6F2E184D-0D13-4381-B56B-27E0EAE5B5EF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -937,6 +939,10 @@ Global
 		{DB28EC0E-A934-43C9-AD55-6622513CDD25}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DB28EC0E-A934-43C9-AD55-6622513CDD25}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DB28EC0E-A934-43C9-AD55-6622513CDD25}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6F2E184D-0D13-4381-B56B-27E0EAE5B5EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F2E184D-0D13-4381-B56B-27E0EAE5B5EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6F2E184D-0D13-4381-B56B-27E0EAE5B5EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6F2E184D-0D13-4381-B56B-27E0EAE5B5EF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -1096,6 +1102,7 @@ Global
 		{C6BC0388-B770-4455-910D-4BAB6FBB2CCA} = {A850A139-9651-4249-AF33-975C3B23D915}
 		{7580008A-ACE4-4019-82C8-493B556300E5} = {A850A139-9651-4249-AF33-975C3B23D915}
 		{DB28EC0E-A934-43C9-AD55-6622513CDD25} = {A850A139-9651-4249-AF33-975C3B23D915}
+		{6F2E184D-0D13-4381-B56B-27E0EAE5B5EF} = {A850A139-9651-4249-AF33-975C3B23D915}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {F369E5DA-EE44-438C-BA83-429788C9A088}
