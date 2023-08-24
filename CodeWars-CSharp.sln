@@ -317,6 +317,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Check same case", "Check sa
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sum Arrays", "Sum Arrays\Sum Arrays.csproj", "{6F2E184D-0D13-4381-B56B-27E0EAE5B5EF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sum of differences in array", "Sum of differences in array\Sum of differences in array.csproj", "{49D4779B-540A-4E62-99E9-60D052FD011B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -943,6 +945,10 @@ Global
 		{6F2E184D-0D13-4381-B56B-27E0EAE5B5EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6F2E184D-0D13-4381-B56B-27E0EAE5B5EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6F2E184D-0D13-4381-B56B-27E0EAE5B5EF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{49D4779B-540A-4E62-99E9-60D052FD011B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{49D4779B-540A-4E62-99E9-60D052FD011B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{49D4779B-540A-4E62-99E9-60D052FD011B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{49D4779B-540A-4E62-99E9-60D052FD011B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -1103,6 +1109,7 @@ Global
 		{7580008A-ACE4-4019-82C8-493B556300E5} = {A850A139-9651-4249-AF33-975C3B23D915}
 		{DB28EC0E-A934-43C9-AD55-6622513CDD25} = {A850A139-9651-4249-AF33-975C3B23D915}
 		{6F2E184D-0D13-4381-B56B-27E0EAE5B5EF} = {A850A139-9651-4249-AF33-975C3B23D915}
+		{49D4779B-540A-4E62-99E9-60D052FD011B} = {A850A139-9651-4249-AF33-975C3B23D915}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {F369E5DA-EE44-438C-BA83-429788C9A088}
