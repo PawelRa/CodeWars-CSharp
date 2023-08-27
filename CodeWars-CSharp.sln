@@ -323,6 +323,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Return the day", "Return th
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "pick a set of first elements", "pick a set of first elements\pick a set of first elements.csproj", "{E2B33765-5909-4D7E-8E4F-DC6B565D98DA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Classic Hello World", "Classic Hello World\Classic Hello World.csproj", "{E99DC69B-1097-42A4-9715-5E44F944260D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -961,6 +963,10 @@ Global
 		{E2B33765-5909-4D7E-8E4F-DC6B565D98DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E2B33765-5909-4D7E-8E4F-DC6B565D98DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E2B33765-5909-4D7E-8E4F-DC6B565D98DA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E99DC69B-1097-42A4-9715-5E44F944260D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E99DC69B-1097-42A4-9715-5E44F944260D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E99DC69B-1097-42A4-9715-5E44F944260D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E99DC69B-1097-42A4-9715-5E44F944260D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -1124,6 +1130,7 @@ Global
 		{49D4779B-540A-4E62-99E9-60D052FD011B} = {A850A139-9651-4249-AF33-975C3B23D915}
 		{93EFEF06-9360-4DB0-B069-938DE0CC9D1A} = {A850A139-9651-4249-AF33-975C3B23D915}
 		{E2B33765-5909-4D7E-8E4F-DC6B565D98DA} = {A850A139-9651-4249-AF33-975C3B23D915}
+		{E99DC69B-1097-42A4-9715-5E44F944260D} = {A850A139-9651-4249-AF33-975C3B23D915}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {F369E5DA-EE44-438C-BA83-429788C9A088}
