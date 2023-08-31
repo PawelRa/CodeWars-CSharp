@@ -329,6 +329,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Is there a vowel in there",
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Keep up the hoop", "Keep up the hoop\Keep up the hoop.csproj", "{02F47E8F-5A4C-4051-A5E3-B233D564E354}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Grasshopper - Basic Function Fixer", "Grasshopper - Basic Function Fixer\Grasshopper - Basic Function Fixer.csproj", "{31976067-63C8-4891-88C7-441A3D71CEDA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -979,6 +981,10 @@ Global
 		{02F47E8F-5A4C-4051-A5E3-B233D564E354}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{02F47E8F-5A4C-4051-A5E3-B233D564E354}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{02F47E8F-5A4C-4051-A5E3-B233D564E354}.Release|Any CPU.Build.0 = Release|Any CPU
+		{31976067-63C8-4891-88C7-441A3D71CEDA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31976067-63C8-4891-88C7-441A3D71CEDA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31976067-63C8-4891-88C7-441A3D71CEDA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31976067-63C8-4891-88C7-441A3D71CEDA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -1145,6 +1151,7 @@ Global
 		{E99DC69B-1097-42A4-9715-5E44F944260D} = {A850A139-9651-4249-AF33-975C3B23D915}
 		{8CF4D300-718A-4607-A6B2-C2EEBF7327CF} = {A850A139-9651-4249-AF33-975C3B23D915}
 		{02F47E8F-5A4C-4051-A5E3-B233D564E354} = {A850A139-9651-4249-AF33-975C3B23D915}
+		{31976067-63C8-4891-88C7-441A3D71CEDA} = {A850A139-9651-4249-AF33-975C3B23D915}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {F369E5DA-EE44-438C-BA83-429788C9A088}
