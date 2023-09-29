@@ -325,6 +325,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "pick a set of first element
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Classic Hello World", "Classic Hello World\Classic Hello World.csproj", "{E99DC69B-1097-42A4-9715-5E44F944260D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Is there a vowel in there", "Is there a vowel in there\Is there a vowel in there.csproj", "{8CF4D300-718A-4607-A6B2-C2EEBF7327CF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -967,6 +969,10 @@ Global
 		{E99DC69B-1097-42A4-9715-5E44F944260D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E99DC69B-1097-42A4-9715-5E44F944260D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E99DC69B-1097-42A4-9715-5E44F944260D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8CF4D300-718A-4607-A6B2-C2EEBF7327CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8CF4D300-718A-4607-A6B2-C2EEBF7327CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8CF4D300-718A-4607-A6B2-C2EEBF7327CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8CF4D300-718A-4607-A6B2-C2EEBF7327CF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -1131,6 +1137,7 @@ Global
 		{93EFEF06-9360-4DB0-B069-938DE0CC9D1A} = {A850A139-9651-4249-AF33-975C3B23D915}
 		{E2B33765-5909-4D7E-8E4F-DC6B565D98DA} = {A850A139-9651-4249-AF33-975C3B23D915}
 		{E99DC69B-1097-42A4-9715-5E44F944260D} = {A850A139-9651-4249-AF33-975C3B23D915}
+		{8CF4D300-718A-4607-A6B2-C2EEBF7327CF} = {A850A139-9651-4249-AF33-975C3B23D915}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {F369E5DA-EE44-438C-BA83-429788C9A088}
